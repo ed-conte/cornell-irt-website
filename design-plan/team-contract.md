@@ -10,17 +10,25 @@ Your team contract should probably include these elements. Feel free to remove o
 
 1. To what goals do we all commit?
 
-    TODO: discuss and document here
+- Communicating regularly and being responsive, i.e. respond to messages and emails within 24 hours.
+- Be honest and communicate any complications early.
+- Complete responsibilities with proper effort and try not to leave anything to the last minute.
+- Commit to weekly meetings (Tuesdays, 6:15PM on Zoom)
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
     **Tip:** Interrupting another person can make them feel like their option isn't valued. Consider a rule about interrupting.
 
-    TODO: discuss and document here
+- Try not to interrupt others, wait until another person is done communicating their thought before speaking.
+- Come to weekly meetings and keep your video camera and microphone audio on to ensure everybody is participating actively.
+- Divide work equally and update others.
+- Complete work a day in advance of the deadline to leave time to cross-check.
+- Tell others when you push to Git in order to avoid messy merge conflicts.
 
 3. By what means and how frequently will we meet or communicate?
 
-    TODO: discuss and document here
+- Weekly meetings on Zoom on Tuesdays at 6:15PM
+- Communication through iMessage and/or email.
 
 4. How will we communicate and work with our client?
 
