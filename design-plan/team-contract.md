@@ -50,21 +50,25 @@ Your team contract should probably include these elements. Feel free to remove o
 - We will expect each team member to send biweekly messages in the groupchat, updating the other team members on what they have done for the work they were assigned. If someone does not appear to be contributing, we will message them in the group chat to ask for the reason behind their lack of work. If the team member does not deliver work by the 24 hour mark prior to the deadline, we will schedule an additional team meeting to ask that team member to update the team on their work progress. At that point, other team members will take on some of their work to make sure that the assignment is submitted on time. If this occurs repetitively, the group will email the TAs and Instructors to ask for additional assistance.
 
 
-1. What do we do when we disagree? What approach to conflict to we all agree to uphold?
+7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO: discuss and document here
+- We will use a voting system.
+- We will make sure everyone is heard and acknowledged.
+- If there is a larger conflict, we will schedule a meeting to talk things out
 
-2. What are our procedures for re-visiting this contract?
+8. What are our procedures for re-visiting this contract?
 
-    TODO: discuss and document here
+- We will send a message and set up a team meeting to discuss the contract and if any changes need to be made. 
 
-3.  What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
+1.  What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
 
     **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
 
-    TODO: discuss and document here
+- We will get coffee as a reward for completing the project.
 
-TODO: what else belongs in your team's contract?
+10. additional clause
+
+- if there is a serious problem with completing the project or communicating and coordination with team members, we will contact our lab TAs. If that does not solve the issue we will contact the info 1300 email.
 
 ## Using your Contract
 
