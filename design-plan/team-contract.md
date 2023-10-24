@@ -13,11 +13,11 @@ Your team contract should probably include these elements. Feel free to remove o
 - Communicating regularly and being responsive, i.e. respond to messages and emails within 24 hours.
 - Be honest and communicate any complications early.
 - Complete responsibilities with proper effort and try not to leave anything to the last minute.
-- Commit to weekly meetings (Tuesdays, 6:15PM on Zoom)
+- Commit to weekly meetings (Tuesdays, 6:15PM on Zoom).
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
-    **Tip:** Interrupting another person can make them feel like their option isn't valued. Consider a rule about interrupting.
+**Tip:** Interrupting another person can make them feel like their option isn't valued. Consider a rule about interrupting.
 
 - Try not to interrupt others, wait until another person is done communicating their thought before speaking.
 - Come to weekly meetings and keep your video camera and microphone audio on to ensure everybody is participating actively.
@@ -32,27 +32,33 @@ Your team contract should probably include these elements. Feel free to remove o
 
 4. How will we communicate and work with our client?
 
-    TODO: discuss and document here
+- We will communicate with the E-board meetings through Zoom or in-person depending on the client's preference. All other forms of communication will occur through email.
+- We will work with them by discussing their goals during our meetings. Then, we will present our ideas and have them offer suggestions to make sure that we are meeting all of their goals and desires.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
 
-    **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
+**Tip:** It's often helpful to think of **responsibilities** rather than roles here.
 
-    TODO: discuss and document here
+- Team Coordinator: Someone that makes sure that everyone is doing their work. They will also be in charge of submitting the assignments. Once they submit, they forward the email submission to all other group members.
+- Team Organizer: They take notes during the client meetings. They also take notes of any questions that the group may have so that they are able to ask the TAs and professors during office hours.
+- Team Communicator: One person will be in charge of facilitating contact with the client. This will involve scheduling meetings, reminding them to send content, and answering all emails they send.
+- Project Manager: Makes sure that all the files are ready for the team to submit. They will be in charge of checking citations, commits, etc. They will then communicate with the team coordinator to instruct them to submit the assignment.
+
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
-    TODO: discuss and document here
+- We will expect each team member to send biweekly messages in the groupchat, updating the other team members on what they have done for the work they were assigned. If someone does not appear to be contributing, we will message them in the group chat to ask for the reason behind their lack of work. If the team member does not deliver work by the 24 hour mark prior to the deadline, we will schedule an additional team meeting to ask that team member to update the team on their work progress. At that point, other team members will take on some of their work to make sure that the assignment is submitted on time. If this occurs repetitively, the group will email the TAs and Instructors to ask for additional assistance.
 
-7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO: discuss and document here
-
-8. What are our procedures for re-visiting this contract?
+1. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
     TODO: discuss and document here
 
-9. What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
+2. What are our procedures for re-visiting this contract?
+
+    TODO: discuss and document here
+
+3.  What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
 
     **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
 
