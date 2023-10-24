@@ -58,17 +58,17 @@ Your team contract should probably include these elements. Feel free to remove o
 
 8. What are our procedures for re-visiting this contract?
 
-- We will send a message and set up a team meeting to discuss the contract and if any changes need to be made. 
+- We will send a message and set up a team meeting to discuss the contract and if any changes need to be made.
 
-1.  What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
+9.  What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
 
     **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
 
 - We will get coffee as a reward for completing the project.
 
-10. additional clause
+10. Additional Clause
 
-- if there is a serious problem with completing the project or communicating and coordination with team members, we will contact our lab TAs. If that does not solve the issue we will contact the info 1300 email.
+- If there is a serious problem with completing the project or communicating and coordination with team members, we will contact our lab TAs. If that does not solve the issue we will contact the info 1300 email.
 
 ## Using your Contract
 
