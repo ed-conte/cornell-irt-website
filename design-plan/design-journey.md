@@ -111,10 +111,12 @@ TODO: tell us about the website you intend to design and build
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
+1. Digital Identity for IRT: Currently, the website operates under the umbrella of the Cornell Economics Society. The client expressed a desire to have a distinct digital space for IRT in order to easily showcase its work and facilitate audience engagement.
+2. Increase Awareness: The client expressed interest in expanding the awareness of IRT on campus, specifically amongst the students interested in pursuing economic-related careers. He brought up that despite having more than 1,500 subscribers, it is not a well-known organization on campus. Thus, the client wants the website to promote IRT and attract more students to contribute to the newsletter.
+3. Accessible Content: The client expressed the desire to have general information about IRT, and most importantly its most popular newsletters, be easily accessible. Nonetheless, he wants the website to be organized and easy to read. In addition, the client had a goal to make information about the people behind the club accessible (i.e., the board members, and/or writers).
+4. Design aligns with mission: The client wants the website design, layout, and content to align with the organization’s mission and expectations for the club’s branding.
+5. Competitive Digital Presence: The client suggested drawing inspiration from IRT’s competitors and similar organizations. They said it would help reach their goals of obtaining a clean, professional, and accessible digital presence to compete with the standards set by clubs such as The Cornell Daily Sun.
+6. Emotional Resonance: The client wants the design of the website to emotionally connect with the visitors through professionalism, mission, and purpose. To do so, the client stressed the importance of the club to reflect the current economic events.
 
 
 ### Client Website Scope (Milestone 1)
