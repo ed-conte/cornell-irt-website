@@ -28,41 +28,70 @@ TODO: who is your client?
 
 1. Describe your organization and its purpose.
 
-    TODO: take notes of your client's response
+IRT is a weekly email newsletter that is based on a diverse set of topics relating to current events and economics. The purpose of our club is to offer students at Cornell an easy and convenient way to stay updated on current events across the globe, particularly those that pertain to economics.
 
 2. What makes your organization and its services special or unique?
 
-    TODO: take notes of your client's response
+IRT is unique in the way that our topics revolve around purely current events that are related to economics. Our weekly email newsletter is also unique in the way that it gets the information to the readers in a short and easy-to-read format.
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO: take notes of your client's response
+I am currently looking for a new website for IRT as we are currently using the Cornell Economics Society’s website to display our content, and I think it is time that we have our own website.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    TODO: take notes of your client's response
+I mainly want Cornell students and prospective IRT applicants to check out the website. Also, my primary audience currently consists of people who are interested in following along with current events related to economics.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    TODO: take notes of your client's response
+I want visitors to learn more about IRT and to learn more about the writers/editors in the club. I also want visitors to read some past articles and to contact me if they have any questions
 
 6. What are your goals for this site?
 
-    TODO: take notes of your client's response
+The goals for the site are to make information easily accessible while being very concise. The goal of the site is also to display the information in a neat and organized manner.
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO: take notes of your client's response
+I want visitors to feel a very professional and classic vibe when they see the website. For themes, I was thinking of having a newspaper-like font and tones of blue. Sharp shape and imagery.
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
-    TODO: take notes of your client's response
-
+The NYT is one competitor as they display their news in a very clean and professional way. The Cornell Daily Sun is also another competitor as they are one of the biggest news distributors to Cornell students. Reuters is also another competitor as they make news very accessible.
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+- The first client interview took approximately ten to fifteen minutes. We met in the client's apartment after they had finished their classes for the day.
+  - We discussed ways in which the club is trying to reach more students and expand
+    - This semester IRT has the most writers and editors since the organization’s beginning
+- The client was relaxed and excited for an opportunity to spread awareness for their club
+  - Despite over 1,500 subscribers to the club’s newsletter, the organization is rather unknown around campus among the students
+- The client was enthusiastic about expressing their ideas for the theme
+  - Common design patterns seen in other news organizations
+  - Blue tones
+  - Professional typeface
+  - Sharp shapes
+  - Decorative dividers between content
+- talked about how we will implement features into the site that will allow users to subscribe the the IRT newsletter
+  - The importance of this feature
+  - How will this be integrated into the design of the site
+  - Which page will this be featured on
+- Discussed club leaders
+  - How will they be listed and features on the site
+    - For recognition of their roles in the organization
+- The present IRT website exists as a subsection of the Cornell Economics Club site
+  - We discussed how we can expand on that to make IRT a more noticeable site
+- We discussed the present website
+  - The existing content
+    - How it will fit into the pages we designate
+  - How can we expand on the current content
+  - How will we divide content into pages
+    - The present website does not have different pages and instead includes one homepage with all of the organization’s content
+  - How will the theme we determine collaboratively for the site reflect the organization’s mission and purpose?
+    - We analyzed similar real-world organizations and newsgroups
+  - We discussed the emotions the presidents and members of the organization want visitors to the site to feel
+    - How we will integrate that into the design and layout of the pages
+- We discussed how we plan to include the client in conversations going forward
 
 
 ### Client Website (Milestone 1)
