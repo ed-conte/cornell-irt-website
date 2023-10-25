@@ -103,8 +103,15 @@ The NYT is one competitor as they display their news in a very clean and profess
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site significantly that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+The website our client desires is a professional site that consists of holistic information about the IRT sub-organization of the Cornell Economics Society, more specifically about what the club does, who is behind the club, and easily accessible examples of their most popular work. The purpose of the website is to offer a professional and organized source of information that their target audience, Cornell students and prospective IRT applicants, can view to learn more about the organization and its work. Currently, their website is simply a single page of the Cornell Economics Society main website, so creating their own website would allow them to expand the information they can present to their audience. Thus, we are hoping to build them a substantial stand-alone website that is somewhat similar to the sites of well-known and professional news distributors. It will include examples of the newsletters they publish, as well as having pages where Cornell students can get a general sense of what they do, who is a part of IRT, and ways to contact them. Design-wise, there is not much on the site aside from text and links, and there is no interactivity. Therefore, we will add more media, a more cohesive and advanced theme, and UX interactivity.
 
+The current website of IRT is found at <https://www.cornelleconomicssociety.com/inrealterms>, and screenshots of the website are below.
+
+![Cornell IRT top of website screenshot](design-plan/../current-website-ss-1.png)
+
+![Cornell IRT middle of website screenshot](design-plan/../current-website-ss-2.png)
+
+![Cornell IRT end of website screenshot](design-plan/../current-website-ss-3.png)
 
 ### Client Goals (Milestone 1)
 > Identify your client's goals for the website.
@@ -120,7 +127,7 @@ TODO: tell us about the website you intend to design and build
 4. Design aligns with mission: The client wants the website design, layout, and content to align with the organization’s mission and expectations for the club’s branding.
 
 5. Competitive Digital Presence: The client suggested drawing inspiration from IRT’s competitors and similar organizations. They said it would help reach their goals of obtaining a clean, professional, and accessible digital presence to compete with the standards set by clubs such as The Cornell Daily Sun.
-   
+
 6. Emotional Resonance: The client wants the design of the website to emotionally connect with the visitors through professionalism, mission, and purpose. To do so, the client stressed the importance of the club to reflect the current economic events.
 
 
