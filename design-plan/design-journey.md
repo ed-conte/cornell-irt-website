@@ -103,7 +103,57 @@ TODO: explain how your proposed website is the right "size" for this project: no
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+- Team Meeting #1: Tuesday, October 24 (6:15 PM - 7:15 PM)
+  - Finish Team Contract
+  - Discuss Client
+  - Assign Roles
+  - Work on Milestone 1 (Assign Sections)
+- Client Meeting #1: Tuesday, October 24 (7:30 PM - 8:30 PM)
+- Goal Analysis #1: Tuesday, October 24 (8:30 PM - 9:30 PM)
+- Milestone 1: Wednesday, October 25 (3 PM; all parts complete)
+- Milestone 1 Submission Due: Wednesday, October 25 (11:59 PM)
+- Understanding Users (Milestone 2): Thursday, October 26 (11:59 PM)
+- User Interview Questions (Milestone 2): Sunday, October 29 (11:59 PM)
+- Interview #1 & Interview Notes (Milestone 2): Monday, October 30 (6:30 PM)
+- Interview #2 & Interview Notes (Milestone 2): Thursday, November 2 (6:30 PM)
+- Interview #3 & Interview Notes (Milestone 2): Friday, November 3 (6:30 PM)
+- Goals (Milestone 2): Sunday, November 5 (11:59 PM)
+- Audience (Milestone 2): Sunday, November 5 (11:59 PM)
+- Website Design Exploration (Milestone 2): Sunday, November 5 (11:59 PM)
+- Example Website 1 Review (Milestone 2): Sunday, November 5 (11:59 PM)
+- Example Website 2 Review (Milestone 2): Sunday, November 5 (11:59 PM)
+- Example Website 3 Review (Milestone 2): Sunday, November 5 (11:59 PM)
+- Content Planning (Milestone 2): Sunday, November 5 (11:59 PM)
+- Site's Planned Content (Milestone 2): Sunday, November 5 (11:59 PM)
+- Content Justification (Milestone 2): Sunday, November 5 (11:59 PM)
+- Content Organization (Milestone 2): Monday, November 6 (11:59 PM)
+- Final Content Organization (Milestone 2): Monday, November 6 (11:59 PM)
+- Navigation (Milestone 2): Monday, November 6 (11:59 PM)
+- Visual Theme (Milestone 2): Monday, November 6 (11:59 PM)
+- Design (Milestone 2): Monday, November 6 (11:59 PM)
+- Interactivity Brainstorm (Milestone 2): Monday, November 6 (11:59 PM)
+- Layout Exploration (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Final Design (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Design Rationale (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Interactivity Rationale (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Interactivity Plan (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Client Meeting #2: Wednesday, November 8 (6:30 PM)
+- Client Feedback & Minutes (Milestone 2): Wednesday, November 8 (11:59 PM)
+- Create Site’s Content (Milestone 2): Sunday, November 12 (11:59 PM)
+- Milestone 2: Monday, November 13 (3 PM; all parts complete)
+- Milestone 2 Submission Due: Wednesday, November 15 (11:59 PM)
+- User Testing Tasks (Final Submission): Friday, November 17 (6:30 PM)
+- Participant 1 (Final Submission): Sunday, November 19 (11:59 PM)
+- Participant 1 -- Testing Notes (Final Submission): Sunday, November 19 (5:00 PM)
+- Participant 2 (Final Submission): Sunday, November 19 (11:59 PM)
+- Participant 2 -- Testing Notes (Final Submission): Sunday, November 19 (6:00 PM)
+- Participant 3 (Final Submission): Sunday, November 19 (11:59 PM)
+- Participant 3 -- Testing Notes (Final Submission): Sunday, November 19 (7:00 PM)
+- Website Revision Based on User Testing (Final Submission): Monday, November 20 (11:59 PM)
+- Final Submission: Tuesday, November 21 (3 PM; all parts complete)
+- Final Submission Due: Wednesday, November 29 (11:59 PM)
+- Lab 14 Show & Tell: Friday, December 1
+- Peer Evaluations: Sunday, December 3 (11:59 PM)
 
 
 ## Understanding Users (Milestone 2)
