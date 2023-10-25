@@ -60,6 +60,7 @@ I want visitors to feel a very professional and classic vibe when they see the w
 
 The NYT is one competitor as they display their news in a very clean and professional way. The Cornell Daily Sun is also another competitor as they are one of the biggest news distributors to Cornell students. Reuters is also another competitor as they make news very accessible.
 
+
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
