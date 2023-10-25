@@ -137,7 +137,11 @@ The current website of IRT is found at <https://www.cornelleconomicssociety.com/
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
+The proposed website is a balance between being ambitious and achievable. There will be 4 content-full pages, which will each be assigned to one of the four team members in this group. Thus, each member will be able to devote their full attention to making sure that the page they are creating is well crafted, informative, and aligns with the client’s goals/expectations. The scope encompasses creating a professional website to showcase everything behind IRT; hence, each page will be reserved to present an important topic within the club (i.e., general/background information and mission, IRT’s most important newsletters, the people behind the organization, and the avenues for interaction).
+
+The website we will be creating for our client is not overly ambitious because we are using existing content from IRT’s current page. Nonetheless, it is not too small because it transitions content that is not well-organized into an easily usable and accessible website. Each page within the website we are designing will serve a small purpose, ultimately meeting all of the client’s goals.
+
+The scope of the website aligns with the client’s goals to have a professional and organized digital presence in order to increase awareness about IRT amongst the Cornell community. Thus, the scope of this website will make it possible to put together a project that delivers a website that is user-friendly and meets all of the client’s goals.
 
 
 ## Plan/Schedule (Milestone 1)
