@@ -19,7 +19,9 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
+The client for this project is The Cornell Economics Society. Within The Cornell Economics Society, we have been meeting with Joel Pang, one of the co-presidents. Amongst the undergraduate economics and pre-business societies at Cornell, The Cornell Economics Society is the most extensive and longest-running. All the undergraduate members and alumni within this society share a passion for the study of economics and its applications. As a society, they work to meet the academic needs of their members, while guiding students to attain their professional goals, alongside the other members of their community. To accomplish this, the society holds networking sessions, social events, career and class search assistance, and professor meet-and-greets.
+
+The Cornell Economics Society meets the client rules in the project requirements. Specifically, this society is an organization on campus that is in urgent need of a website. Due to their on-campus location, it will be easy to access the client’s website’s audience for user interviews and user testing. In fact, during our first meeting with our client, we discussed the need for their help in accessing members of the site’s audience. They revealed that this would not be a problem. They also made it clear that they would be available throughout the duration of the semester to work out requirements, generate content, and get feedback. In addition, we identified The Cornell Economics Society, and specifically Joel Pang, as a good client because none of our team members have a direct, personal connection to the organization. Thus, it will be possible to design the website for the audience, instead of for ourselves.
 
 
 ### Client Questionnaire (Milestone 1)
@@ -130,7 +132,57 @@ TODO: explain how your proposed website is the right "size" for this project: no
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+- Team Meeting #1: Tuesday, October 24 (6:15 PM - 7:15 PM)
+  - Finish Team Contract
+  - Discuss Client
+  - Assign Roles
+  - Work on Milestone 1 (Assign Sections)
+- Client Meeting #1: Tuesday, October 24 (7:30 PM - 8:30 PM)
+- Goal Analysis #1: Tuesday, October 24 (8:30 PM - 9:30 PM)
+- Milestone 1: Wednesday, October 25 (3 PM; all parts complete)
+- Milestone 1 Submission Due: Wednesday, October 25 (11:59 PM)
+- Understanding Users (Milestone 2): Thursday, October 26 (11:59 PM)
+- User Interview Questions (Milestone 2): Sunday, October 29 (11:59 PM)
+- Interview #1 & Interview Notes (Milestone 2): Monday, October 30 (6:30 PM)
+- Interview #2 & Interview Notes (Milestone 2): Thursday, November 2 (6:30 PM)
+- Interview #3 & Interview Notes (Milestone 2): Friday, November 3 (6:30 PM)
+- Goals (Milestone 2): Sunday, November 5 (11:59 PM)
+- Audience (Milestone 2): Sunday, November 5 (11:59 PM)
+- Website Design Exploration (Milestone 2): Sunday, November 5 (11:59 PM)
+- Example Website 1 Review (Milestone 2): Sunday, November 5 (11:59 PM)
+- Example Website 2 Review (Milestone 2): Sunday, November 5 (11:59 PM)
+- Example Website 3 Review (Milestone 2): Sunday, November 5 (11:59 PM)
+- Content Planning (Milestone 2): Sunday, November 5 (11:59 PM)
+- Site's Planned Content (Milestone 2): Sunday, November 5 (11:59 PM)
+- Content Justification (Milestone 2): Sunday, November 5 (11:59 PM)
+- Content Organization (Milestone 2): Monday, November 6 (11:59 PM)
+- Final Content Organization (Milestone 2): Monday, November 6 (11:59 PM)
+- Navigation (Milestone 2): Monday, November 6 (11:59 PM)
+- Visual Theme (Milestone 2): Monday, November 6 (11:59 PM)
+- Design (Milestone 2): Monday, November 6 (11:59 PM)
+- Interactivity Brainstorm (Milestone 2): Monday, November 6 (11:59 PM)
+- Layout Exploration (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Final Design (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Design Rationale (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Interactivity Rationale (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Interactivity Plan (Milestone 2): Tuesday, November 7 (11:59 PM)
+- Client Meeting #2: Wednesday, November 8 (6:30 PM)
+- Client Feedback & Minutes (Milestone 2): Wednesday, November 8 (11:59 PM)
+- Create Site’s Content (Milestone 2): Sunday, November 12 (11:59 PM)
+- Milestone 2: Monday, November 13 (3 PM; all parts complete)
+- Milestone 2 Submission Due: Wednesday, November 15 (11:59 PM)
+- User Testing Tasks (Final Submission): Friday, November 17 (6:30 PM)
+- Participant 1 (Final Submission): Sunday, November 19 (11:59 PM)
+- Participant 1 -- Testing Notes (Final Submission): Sunday, November 19 (5:00 PM)
+- Participant 2 (Final Submission): Sunday, November 19 (11:59 PM)
+- Participant 2 -- Testing Notes (Final Submission): Sunday, November 19 (6:00 PM)
+- Participant 3 (Final Submission): Sunday, November 19 (11:59 PM)
+- Participant 3 -- Testing Notes (Final Submission): Sunday, November 19 (7:00 PM)
+- Website Revision Based on User Testing (Final Submission): Monday, November 20 (11:59 PM)
+- Final Submission: Tuesday, November 21 (3 PM; all parts complete)
+- Final Submission Due: Wednesday, November 29 (11:59 PM)
+- Lab 14 Show & Tell: Friday, December 1
+- Peer Evaluations: Sunday, December 3 (11:59 PM)
 
 
 ## Understanding Users (Milestone 2)
