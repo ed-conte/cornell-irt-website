@@ -322,11 +322,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 
     ![TODO: wide screenshot description](TODO: wide screenshot path)
 
-3. <TODO: website url>
+3. <https://www.cornellappdev.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Narrow screenshot of Cornell AppDev's home page](design-plan/../example-site-3-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Narrow screenshot of Cornell AppDev's home page](design-plan/../example-site-3-wide.png)
 
 
 ### Example Website 1 Review (Milestone 2)
@@ -347,7 +347,7 @@ TODO: website reflection/critique
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+The design for both wide and narrow screens follows many familiar design patterns that were outlined in lectures, such as a distinctive header at the top where the logo, title, and navigation bar exists. For both wide and narrow screens, the logo and title appears on the left of the header, and for the wide screens, the navigation bar is on the right. Meanwhile, for narrow screens, there is a hamburger menu on the right, and when interacted with, a navigation menu appears. The home page also uses buttons at the end of the text in certain subsections that the user can click and navigate to other pages. For each page on the site, for wide screens, it uses rows of images and text to fully use the available space, but for narrow screens, all of the content is stacked vertically and media stretches the entire width of the screen. At the bottom of every page, the site has a footer that stretches the entire width of the screen. Additionally, the website employs interactivity with a thumbnail gallery and modals near the bottom of the home page where the user can click on thumbnails of images and a modal pops up that enlarges the clicked on image.
 
 
 ## Content Planning (Milestone 2)
