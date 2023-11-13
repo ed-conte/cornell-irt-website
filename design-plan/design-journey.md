@@ -223,7 +223,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
    a. What did you like about it? What didn’t you like?
 
 3. Walk me through your process of examining the last organization website you visited.
-   a. Describe the navigation process? Which pages did you visit first?
+   a. Describe the navigation process. Which pages did you visit first?
 
 4. When looking to join a new campus club or organization, do you seek out information about the organization before applying?
    a. If yes, what information were you specifically looking for? How did you access that information?
@@ -275,7 +275,7 @@ User Interview Briefing & Consent: "Hi, I am a student at Cornell University. I'
 2. Recall the last time you visited an organization’s website. What on that site stood out to you? What did you like about it? What didn’t you like?
 - The last time I visited an organization’s website was yesterday when I checked out AIPAC. What stood out to me was the use of images that made it clear that everyone involved in the organization was committed to helping Israel. As soon as I opened the website the images, on the home page, made their mission really clear to me. Thus, I liked that the website’s content was very cohesive; everything (i.e., typography, imagery, color, etc) was making their mission statement evident. As I learned in my digital marketing class, the webpage content is designed in a Z-shape pattern, which makes it very easy to read and digest the information. That being said, there is nothing that I did not like about the website.
 
-3. Walk me through your process of examining the last organization website you visited. Describe the navigation process? Which pages did you visit first?
+3. Walk me through your process of examining the last organization website you visited. Describe the navigation process. Which pages did you visit first?
 - The first thing I did when opening the AIPAC website was scroll through the home page and read the content. As I previously said, I liked the Z-shape pattern they implemented; I also like how it gave a general overview of the website’s content, and gave you the option to click on a button at the end of the short description, if you wanted more information. Since I was just trying to find general information about the organization, after the home page, I navigated to the About Page; again, I scrolled down to the bottom of the page. On this page, I found all the information I was looking for. Nonetheless, I continued navigating through the pages quickly: Policy, Resources, and AIPAC PAC.
 
 4. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
