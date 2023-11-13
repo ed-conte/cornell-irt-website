@@ -215,23 +215,36 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for the IRT sub-organization of the Cornell Economics Society. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for Joel Pang, the president of the IRT sub-organization of the Cornell Economics Society. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. What is your relationship with IRT?
+2. Recall the last time you visited an organization’s website. What on that site stood out to you?
+   a. What did you like about it? What didn’t you like?
 
-3. How did you learn of IRT?
+3. Walk me through your process of examining the last organization website you visited.
+   a. Describe the navigation process? Which pages did you visit first?
 
-4. What were your intentions when you originally sought to learn more about IRT?
+4. When looking to join a new campus club or organization, do you seek out information about the organization before applying?
+   a. If yes, what information were you specifically looking for? How did you access that information?
 
-5. What would you be most interested in knowing about IRT?
+5. Is there any information that you feel is often missing or underrepresented by your sources?
 
-6. What do you consider the most valuable resources offered by IRT?
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were these challenges or difficulties you faced?
 
-...
+7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
 
-n. What haven't I asked you today that you think would be valuable for me to know?
+8. What is your relationship with IRT?
+
+9.  How did you learn of IRT?
+
+10. What were your intentions when you originally sought to learn more about IRT?
+
+11. What would you be most interested in knowing about IRT?
+
+12. What do you consider the most valuable resources offered by IRT?
+
+13. What haven't I asked you today that you think would be valuable for me to know?
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
