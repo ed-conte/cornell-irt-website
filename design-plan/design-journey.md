@@ -371,17 +371,17 @@ Include two screenshots of the home page for each site: narrow and wide.
 
     ![TODO: wide screenshot description](TODO: wide screenshot path)
 
-2. <TODO: website url>
+2. <https://cornellsun.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Narrow Screenshot of The Cornell Daily Sun's Home Page](design-plan/../example-site-2-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Wide Screenshot of The Cornell Daily Sun's Home Page](design-plan/../example-site-2-wide.png)
 
 3. <https://www.cornellappdev.com/>
 
-    ![Narrow screenshot of Cornell AppDev's home page](design-plan/../example-site-3-narrow.png)
+    ![Narrow Screenshot of Cornell AppDev's Home Page](design-plan/../example-site-3-narrow.png)
 
-    ![Narrow screenshot of Cornell AppDev's home page](design-plan/../example-site-3-wide.png)
+    ![Narrow screenshot of Cornell AppDev's Home Page](design-plan/../example-site-3-wide.png)
 
 
 ### Example Website 1 Review (Milestone 2)
