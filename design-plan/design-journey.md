@@ -360,6 +360,13 @@ TODO: design ideas and rationale
 
 TODO: add as many goals as needed
 
+Goal 4: TODO: brief title
+
+TODO: design ideas and rationale
+
+
+TODO: add as many goals as needed
+
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
