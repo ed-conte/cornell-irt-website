@@ -384,7 +384,7 @@ TODO: add additional interviewees as needed
 **Goal 5: Facilitate Engagement with IRT**
 - Design Ideas and Choices:
   - In order to make it easier for the audience members to engage with the content produced by IRT, the website will integrate social media links and a newsletter sign-up; in turn, this will enhance digital outreach, positively affecting the club.
-  
+
 - Rationale & Additional Notes:
   - The members of IRT stressed the importance of increasing the club's visibility and attracting potential new members or readers. Thus, integrating social media will do a great job of accomplishing this goal.
   - This strategy is particularly important in a university setting where students often rely on digital channels for information.
@@ -468,6 +468,7 @@ Plan your site's content.
 - Text: IRT Background Information
 - Text: IRT Mission/Values
 - Text: E-board members’ Names, Majors, and Colleges
+- Text: E-board experiences
 - Photos: E-board members’ photos
 - Text: Writers’ Names
 - Text: Editors’ Names
