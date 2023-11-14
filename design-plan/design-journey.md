@@ -382,6 +382,7 @@ TODO: add additional interviewees as needed
 
 
 **Goal 5: Facilitate Engagement with IRT**
+
 - Design Ideas and Choices:
   - In order to make it easier for the audience members to engage with the content produced by IRT, the website will integrate social media links and a newsletter sign-up; in turn, this will enhance digital outreach, positively affecting the club.
 
