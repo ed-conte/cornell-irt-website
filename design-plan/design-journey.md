@@ -537,11 +537,15 @@ Explanation: The primary objective of the final card sorting iteration is to ref
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+The third card sorting iteration will be implemented.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+The third card sorting iteration was established after meticulously refining the content organization to best suit the target audience – Cornell students interested in economics. That being said, the organization featured in the third card-sorting iteration will enhance user experience because it ensures that the content is intuitively accessible to the audience.
+
+Specifically, this card-sorting iteration addresses the specific needs and goals that the audience members revealed during the interview process. To do so, the key improvements that were made included strategically placing the newsletter subscription link, wherein users would be encouraged to look through past publications prior to subscribing. This change was made after realizing that not all audience members might be familiar with IRT’s newsletters. Therefore, placing the subscription link alongside past newsletters facilitates a seamless experience where users can explore previous issues and easily opt to subscribe if interested. All in all, this card sorting iteration effectively meets all the audience goals identified above.
+
+<p><cite> Final Content Organization </cite> by Ingrid Gruener.</p>
 
 
 ### Navigation (Milestone 2)
