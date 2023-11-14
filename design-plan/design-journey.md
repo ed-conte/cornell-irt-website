@@ -438,11 +438,39 @@ Plan your site's content.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 > Briefly summarize the content; do not include the content here.
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- Image: IRT Logo
+- Text: IRT Background Information
+- Text: E-board members’ Names, Majors, and Colleges
+- Photos: E-board members’ photos
+- Text: Writers’ Names
+- Text: Editors’ Names
+- Text: Example Newsletter
+- Text: Information on Joining the Club
+- Text: Information About the Writing Process
+- Text: Frequently Asked Questions
+- Text: Sign-Up Information
+- Text: Contact Information (Link to Email)
+- Text: US Unemployment
+- Text: Pandemic US Budget Gap
+- Text: Federal Reserve Bond Purchasing
+- Text: Trump’s Decision
+- Text: Jerome Powell’s Remark
+- Image: Unemployment
+- Image: Pandemic
+- Image: Money
+- Image: Trump
+- Image: Jerome Powell
+- Text: UK Economic Decline
+- Text: Cornell Compliance Message
+- Image: UK Economy
+- Link: Newsletter Subscription
+- Image: QR code for E-board Application
+- Image: Twitter Icon
+- Image: Facebook Icon
+- Link: Twitter
+- Link: Facebook
 
+<p><cite> Your Site's Planned Content </cite> by Ingrid Gruener.</p>
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
