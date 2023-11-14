@@ -259,14 +259,6 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-
-**Interviewee 2:**
-
 Participant Information: My participant is currently a Senior studying Business Administration with a concentration in Economics. He has always had a passion for anything that has to do with Economics, anywhere from writing to website design. Thus, he has taken numerous classes that have driven him to pursue his career goals and passion. He is originally from Miami, Florida, and hopes to return to Miami to begin his professional career.
 
 User Interview Briefing & Consent: "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for Joel Pang, the president of IRT. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
@@ -274,37 +266,37 @@ User Interview Briefing & Consent: "Hi, I am a student at Cornell University. I'
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 - My name is Ilan. I am currently a Senior studying Business Administration with a concentration in Economics. I am originally from Miami, Florida.
 
-2. Recall the last time you visited an organization’s website. What on that site stood out to you? What did you like about it? What didn’t you like?
+1. Recall the last time you visited an organization’s website. What on that site stood out to you? What did you like about it? What didn’t you like?
 - The last time I visited an organization’s website was yesterday when I checked out AIPAC. What stood out to me was the use of images that made it clear that everyone involved in the organization was committed to helping Israel. As soon as I opened the website the images, on the home page, made their mission really clear to me. Thus, I liked that the website’s content was very cohesive; everything (i.e., typography, imagery, color, etc) was making their mission statement evident. As I learned in my digital marketing class, the webpage content is designed in a Z-shape pattern, which makes it very easy to read and digest the information. That being said, there is nothing that I did not like about the website.
 
-3. Walk me through your process of examining the last organization website you visited. Describe the navigation process. Which pages did you visit first?
+1. Walk me through your process of examining the last organization website you visited. Describe the navigation process. Which pages did you visit first?
 - The first thing I did when opening the AIPAC website was scroll through the home page and read the content. As I previously said, I liked the Z-shape pattern they implemented; I also like how it gave a general overview of the website’s content, and gave you the option to click on a button at the end of the short description, if you wanted more information. Since I was just trying to find general information about the organization, after the home page, I navigated to the About Page; again, I scrolled down to the bottom of the page. On this page, I found all the information I was looking for. Nonetheless, I continued navigating through the pages quickly: Policy, Resources, and AIPAC PAC.
 
-4. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
+1. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
 - If I have an interest in joining a club or organization, I will reach out to friends who know information about the club/organization to find out information on whether or not the club is worth joining. If they tell me it is, I will usually visit the organization’s website for more specific information about the application process, activities offered, benefits of joining, and day-to-day tasks. Nonetheless, if my interest in joining comes at the start of the semester, I will usually just attend Club Fest and ask questions there, usually focused on the club’s time commitment and application process, as I previously mentioned.
 
-5. Is there any information that you feel is often missing or underrepresented by your sources?
+1. Is there any information that you feel is often missing or underrepresented by your sources?
 - Yes, when getting advice from a peer you have to take it with a grain of salt because everyone has their own perspective on a club. Also, when obtaining information from an organization’s website you usually only see the positives of the club; I would like to see more information on frequently asked questions for example the time commitment, the application process, and the benefits of being a member.
 
-6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were the challenges or difficulties you faced?
+1. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were the challenges or difficulties you faced?
 - Yes, I was interested in joining the Cornell Daily Sun this semester, but I did not find any information (other than the previously written articles) on their website. I think it’s important for clubs and organizations to have information about their meeting dates and times (i.e., time commitment) as well as how to join.
 
-7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
+1. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
 - I did not end up joining the Cornell Daily Sun because of the lack of clarity surrounding their expectations. I had a lot of difficulty finding their meeting times and dates on their website. Nonetheless, I reached out to one of my friends, on their Slack channel, who was able to tell me where to go for the meetings. Once I was there, I did not get my questions answered, and I was unable to find them on their website. I have a lot of high-commitment work, due to my class schedule, and I wish I was able to find more specifics on their website so that I do not feel lost or like I have fallen behind if I am unable to attend every meeting.
 
-8. What is your relationship with IRT?
+1. What is your relationship with IRT?
 - I am currently not in IRT, but because of my major, I have heard a lot of people talk about it. A few months ago, I looked at their website to try to find some articles to read. Although I was able to find interesting articles, their website was really hard to navigate.
 
-9. How did you learn of IRT?
+1. How did you learn of IRT?
 - I learned about IRT through my friends because a lot of them are interested in reading Economics-related articles. Nonetheless, none of them are currently involved in writing the articles.
 
-10. What were your intentions when you originally sought to learn more about IRT?
+1.  What were your intentions when you originally sought to learn more about IRT?
 - My intention when I originally sought to learn more about IRT was just to understand the purpose of the club. I had heard many people talk about it, so I was just interested in knowing more about the club’s mission and purpose. When I visited their website initially I noticed that they were focused on writing articles about economics; thus, now, when I visit their website it is usually to read their articles, since they are usually very interesting.
 
-11. What would you be most interested in knowing about IRT?
+1.  What would you be most interested in knowing about IRT?
 - I would be interested in knowing more about their article writing process. For example, if there are any training sessions you must attend before writing, how people select the writing topics, if there is a word limit, etc.
 
-12. What do you consider the most valuable resources offered by IRT?
+1.  What do you consider the most valuable resources offered by IRT?
 - I think the most valuable resources are the articles that are produced by them. Nonetheless, in terms of member benefits, I was not able to find specific information on their website. Despite this, I would like to know if there are benefits and opportunities that may arise by being a member and writer for IRT.
 
 13. What haven't I asked you today that you think would be valuable for me to know?
@@ -312,8 +304,15 @@ User Interview Briefing & Consent: "Hi, I am a student at Cornell University. I'
 
 After the interview: "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
-<p><cite>Interviewee 2</cite> by Ingrid Gruener.</p>
+<p><cite>Interviewee 1</cite> by Ingrid Gruener.</p>
 
+
+**Interviewee 2:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
 
 **Interviewee 3:**
 
