@@ -477,7 +477,6 @@ Plan your site's content.
 - Text: Information on Joining the Club
 - Text: Information About the Writing Process
 - Text: Frequently Asked Questions
-- Text: Sign-Up Information
 - Text: Contact Information (Link to Email)
 - Text: US Unemployment
 - Text: Pandemic US Budget Gap
