@@ -248,6 +248,8 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
+<p><cite>Interview Questions</cite> by Group Members.</p>
+
 
 ### Interview Notes (Milestone 2)
 > Interview at least 1 person for every member of your team from your audience.
@@ -427,6 +429,8 @@ The Cornell Daily Sun website design follows the common design patterns and inte
 > In your review, include a discussion common design patterns and interactivity in the site.
 
 The design for both wide and narrow screens follows many familiar design patterns that were outlined in lectures, such as a distinctive header at the top where the logo, title, and navigation bar exists. For both wide and narrow screens, the logo and title appears on the left of the header, and for the wide screens, the navigation bar is on the right. Meanwhile, for narrow screens, there is a hamburger menu on the right, and when interacted with, a navigation menu appears. The home page also uses buttons at the end of the text in certain subsections that the user can click and navigate to other pages. For each page on the site, for wide screens, it uses rows of images and text to fully use the available space, but for narrow screens, all of the content is stacked vertically and media stretches the entire width of the screen. At the bottom of every page, the site has a footer that stretches the entire width of the screen. Additionally, the website employs interactivity with a thumbnail gallery and modals near the bottom of the home page where the user can click on thumbnails of images and a modal pops up that enlarges the clicked on image.
+
+<p><cite>Example Website 3 Review </cite> by Elaine Wu.</p>
 
 
 ## Content Planning (Milestone 2)
