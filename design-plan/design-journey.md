@@ -472,6 +472,7 @@ Plan your site's content.
 
 <p><cite> Your Site's Planned Content </cite> by Ingrid Gruener.</p>
 
+
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
