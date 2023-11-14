@@ -504,7 +504,9 @@ Plan your site's content.
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+This proposed content perfectly aligns with the interests and needs of Cornell students exploring economics, offering a comprehensive view of the IRT club and its activities. By including detailed background information, mission/values, and profiles of E-board members, the site becomes a valuable resource for those seeking insight into the club's ethos and leadership. This approach is particularly effective for students considering joining the club, as it provides a transparent view of who is involved and what their experiences have been. Additionally, the inclusion of past newsletters and information on the writing process addresses the audience's academic and professional interests in economics. This content not only serves as a resource for current economic topics, such as the US unemployment rate, the pandemic’s impact on the budget, and decisions by influential figures like Jerome Powell and Donald Trump but also encourages active participation and engagement through the writing and editorial process. Furthermore, the user-friendly design and clear navigation of the website cater to the need for easy access to information, as highlighted in our interviews with Cornell students. The integration of social media links and newsletter sign-ups supports the goal of facilitating engagement with IRT, effectively enhancing the club's visibility and outreach.
+
+<p><cite> Content Justification </cite> by Ingrid Gruener.</p>
 
 
 ## Information Architecture (Milestone 2)
