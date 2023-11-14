@@ -230,7 +230,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 5. Is there any information that you feel is often missing or underrepresented by your sources?
 
-6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were these challenges or difficulties you faced?
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were the challenges or difficulties you faced?
 
 7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
 
@@ -284,7 +284,7 @@ User Interview Briefing & Consent: "Hi, I am a student at Cornell University. I'
 5. Is there any information that you feel is often missing or underrepresented by your sources?
 - Yes, when getting advice from a peer you have to take it with a grain of salt because everyone has their own perspective on a club. Also, when obtaining information from an organization’s website you usually only see the positives of the club; I would like to see more information on frequently asked questions for example the time commitment, the application process, and the benefits of being a member.
 
-6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were these challenges or difficulties you faced?
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were the challenges or difficulties you faced?
 - Yes, I was interested in joining the Cornell Daily Sun this semester, but I did not find any information (other than the previously written articles) on their website. I think it’s important for clubs and organizations to have information about their meeting dates and times (i.e., time commitment) as well as how to join.
 
 7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
