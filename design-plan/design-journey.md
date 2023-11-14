@@ -344,41 +344,50 @@ TODO: add additional interviewees as needed
 
 - Design Ideas and Choices:
   - To meet this goal, the website will contain a dedicated page focused on providing information about the club. This section will include detailed descriptions of the club’s mission, values, and more related content. The ‘About’ page will provide a clear understanding of what the club does and stands for. In addition, we will include a Frequently Asked Question section to cover common queries.
+
 - Rationale & Additional Notes:
   - The reason for the design choice detailed above is to provide website visitors with a clear overview of the club; thus, this will not only allow students to participate in the club if interested, but it will also allow them to learn more about the offerings at Cornell in Economics, their field of interest. This section, in turn, aligns with the need for detailed and easily accessible information about the club, as indicated by the interviewees.
   - Providing information about the club on the club’s website is critical for students who are not only exploring their interests but are also looking for groups that align with their academic and career aspirations. This comprehensive approach helps in making informed decisions about joining the club. It also addresses a key frustration highlighted in the interviews regarding the lack of detailed club information.
+
 
 **Goal 2: Access Past Newsletters/Publications**
 
 - Design Ideas and Choices:
   - To meet this goal, the website will include a dedicated section for newsletters/publications. Specifically, this section will solely feature a few past issues. On this same page, the website will provide the audience with an easy sign-up option for the newsletter.
+
 - Rationale & Additional Notes:
   - By offering sample newsletters for non-subscribers to view, the website is not only providing users with the economics-related content they seek but also encouraging them to sign up for the newsletter. Not to mention, providing users with sample content can engage visitors, motivating them to browse the website for a longer period of time, while also giving them a taste of the club’s regular communications and insights in case they are interested in becoming a writer.
   - Providing this content not only engages visitors but also establishes a trust factor, showcasing the club's commitment to regular, quality writing.
+
 
 **Goal 3: Obtain E-Board Information**
 
 - Design Ideas and Choices:
   - To meet this goal, the website will have a section dedicated to E-Board information. On this page, users will be able to find the profiles of current members, their roles, and contributions to the club. In addition, this section will highlight the experiences that these board members have had as a result of their involvement in the club. Finally, in this section, the audience will be able to access a QR code that will take them to the E-Board Application, along with answers to frequently asked questions about the application process and time commitment.
+
 - Rationale & Additional Notes:
   - Personalizing the website with member information can help new visitors connect with the club. Additionally, after conducting the interviews, it was made clear that the audience members wanted to understand the benefits and experiences of joining the club.
   - Providing detailed E-Board information adds a human element to the club's website, making it more relatable and approachable. This section can also serve as a guide for those aspiring to join the club's E-Board in the future.
   - The inclusion of a QR code for the E-Board application simplifies the application process.
 
+
 **Goal 4: Clear Navigation and User-Friendly Design**
 
 - Design Ideas and Choices:
   - To meet this goal, the website will feature a user-friendly interface with clear, intuitive navigation. Specifically, the website will make use of a structure that is commonly found across the web. Thus, we will consider using a Z-shape pattern layout for content. This will ensure that information about the club, membership details, newsletters, and member profiles is easily accessible.
+
 - Rationale & Additional Notes:
   - In the interviews, interviewee 2 stressed the importance of a well-structured website with easy navigation. He said that he has encountered numerous websites, especially for Cornell clubs, where he can’t find the information he is looking for. He added that the use of Z-shaped patterns for content made it easier to read and consume. All in all, addressing this goal is crucial for a positive user experience and for ensuring that visitors can find the information they need quickly.
   - This approach is directly informed by user experiences shared during the interviews and is integral to making the website accessible and engaging
 
+
 **Goal 5: Facilitate Engagement with IRT**
 - Design Ideas and Choices:
   - In order to make it easier for the audience members to engage with the content produced by IRT, the website will integrate social media links and a newsletter sign-up; in turn, this will enhance digital outreach, positively affecting the club.
+  
 - Rationale & Additional Notes:
   - The members of IRT stressed the importance of increasing the club's visibility and attracting potential new members or readers. Thus, integrating social media will do a great job of accomplishing this goal.
-  - This strategy is particularly important in a university setting where students often rely on digital channels for information. 
+  - This strategy is particularly important in a university setting where students often rely on digital channels for information.
 
 <p><cite>Goals</cite> by Ingrid Gruener.</p>
 
