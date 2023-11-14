@@ -516,7 +516,22 @@ This proposed content perfectly aligns with the interests and needs of Cornell s
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+**Card Sorting Iteration 1:**
+<img src="card_sorting_1.png" alt="Card Sorting Iteration 1">
+
+Explanation: For the first card sorting iteration, I took a user-centric approach. Thus, the content is organized in a comprehensive way for the target audience to easily access the information they desire. To begin, the first cluster includes links and content (i.e., Facebook link, Twitter link, and contact information) that will allow the user to engage with the club’s offerings without any limitations. The next cluster includes information about IRT, such as background information, the mission and values, frequently asked questions, and general information about the writing process. The third cluster focuses on providing the website visitors with content in regard to past publications/newsletters; thus, this section will not only feature the example newsletters but also give the audience members a chance to subscribe to the newsletter (through a link) if they are interested in engaging with similar content in the future. Finally, the last cluster provides website visitors with everything they need to know about the E-Board; hence, this section includes information about the current board members, a QR code for IRT, and more related information. For each cluster, the images and pictures aimed to complement the text, by providing visuals for the content being described.
+
+**Card Sorting Iteration 2:**
+<img src="card_sorting_2.png" alt="Card Sorting Iteration 2">
+
+Explanation: When analyzing the card sorting for the first iteration, I noticed there were a few cards that were placed in clusters where they were not completely relevant. Thus, the second card sorting iteration builds on the first iteration in order to be sure that the content is organized in the best way for the target audience. Specifically, the first cluster not only includes content that allows website visitors to interact with IRT but also includes background information about IRT. Including background information about an organization or club on the home page of their website is vital because, evidently, not everyone who visits the website is going to be completely familiar with the club and for them to fully engage in the website’s offerings they have to have a clear understanding of what to expect. In addition to this change, the newsletter subscription link was added to the home page. The second card cluster contains the necessary information to further understand what IRT stands for; therefore, the content that was chosen for this page includes information about joining IRT, their mission and values, frequently asked questions, and information about the writing process. The third card-sorting group has content that has to do with the past example newsletters that visitors can use to obtain a comprehensive understanding of what IRT’s publications customarily entail. The final cluster provides website visitors with information about the E-board, including insights on the current members and the application process.
+
+**Card Sorting Iteration 3:**
+<img src="card_sorting_3.png" alt="Card Sorting Iteration 3">
+
+Explanation: The primary objective of the final card sorting iteration is to refine and confirm the organization established in the previous iteration, ensuring the content is optimally structured for the target audience: Cornell students with an interest in economics. Upon reviewing the previous iteration, it became clear that the arrangement was almost ideal, except for the placement of the newsletter subscription link. That is because our audience may not be familiar with the content customarily featured on IRT’s newsletters. To facilitate easier access and encourage subscriptions, the decision was made to position the newsletter subscription link on the same page as past newsletters. This approach allows users to engage in previous publications and, if they find them engaging, to subscribe immediately. This placement is intended to prevent the need for additional navigation or the potential loss of subscription opportunities due to inconvenience.
+
+<p><cite> Content Organization </cite> by Ingrid Gruener.</p>
 
 
 ### Final Content Organization (Milestone 2)
