@@ -372,7 +372,11 @@ TODO: add as many goals as needed
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+- Site's Audience: Cornell students who are interested in exploring the field of economics by engaging in reading and/or writing.
+  
+- Cohesive: Cornell students who are interested in exploring the field of economics by engaging in reading and/or writing form a cohesive group for numerous reasons. To begin, the target audience members have a common interest in economics, which is a broad yet specific field of study. Thus, this shared interest creates a natural basis for the content that is relevant to the website. Nonetheless, since the specific group of students that were selected were those that attend Cornell University, it is likely that the audience members are academically driven and intellectually curious. This trait builds on the cohesive nature of the audience members as the website aims to offer thought-provoking content in the field of economics. Not to mention, the fact that the audience members are all part of the Cornell community makes it easier to tailor content that is relevant to their academic and social setting, such as economics-related global issues that are impacting the Cornell community. That being said, the fact that the audience group includes those who are both interested in reading and writing allows for the website to value diversity of contribution. The audience’s focus on diverse learning methods, in turn, caters to those who value a different style of engaging in economics-related content whether that be through consuming knowledge or producing it. Similarly, the emphasis on reading and writing aligns with individuals who are interested in developing their comprehension, analysis, and communication skills, which are some of the most fundamental skills in a field like economics.
+
+<p><cite>Audience</cite> by Ingrid Gruener.</p>
 
 
 ## Website Design Exploration (Milestone 2)
