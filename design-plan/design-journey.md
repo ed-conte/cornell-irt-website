@@ -551,10 +551,11 @@ Specifically, this card-sorting iteration addresses the specific needs and goals
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Page 1: Home
+- Page 2: About Us
+- Page 3: Newsletter
+- Page 4: E-Board
+
 
 > Explain why the names of these pages make sense for your site's audience.
 
