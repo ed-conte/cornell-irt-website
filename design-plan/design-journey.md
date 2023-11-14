@@ -443,6 +443,7 @@ Plan your site's content.
 
 - Image: IRT Logo
 - Text: IRT Background Information
+- Text: IRT Mission/Values
 - Text: E-board members’ Names, Majors, and Colleges
 - Photos: E-board members’ photos
 - Text: Writers’ Names
