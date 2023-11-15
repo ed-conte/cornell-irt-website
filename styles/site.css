@@ -24,3 +24,7 @@ body {
 .flex-child:first-child {
     margin-right: 20px;
 }
+
+.citation{
+    font-size: 10px;
+}
