@@ -410,6 +410,13 @@ Identify three websites (preferably static websites) that exist today on the web
 
 Include two screenshots of the home page for each site: narrow and wide.
 
+**Redesigning the following website:**
+1. <https://www.cornelleconomicssociety.com/inrealterms>
+
+    ![Narrow Screenshot of IRT Page](design-plan/../wide-irt.png)
+
+    ![Wide Screenshot of IRT Page](design-plan/../narrow-irt.png)
+
 **We'll refer to these are your "example websites."**
 
 1. <TODO: website url>
