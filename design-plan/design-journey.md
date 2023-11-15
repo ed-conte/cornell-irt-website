@@ -592,9 +592,43 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- TODO: ...
+- Interactivity idea 1: Hamburger Menu (Narrow Screen Navigation)
+  - Explanation: The hamburger menu will only be present when the user is viewing the website on a narrow screen.
+  - Rationale: Implementing a hamburger menu will facilitate information accessibility, as it will optimize the space available in order for users to have to minimally navigate the website to find the information they are searching for. This interactivity meets one of the audience’s goals, which is their desire for the website to have a clear navigation and user-friendly design.
+
+- Interactivity idea 2: Image Carousel (E-Board Members)
+  - Explanation: The image carousel will be present in both the narrow-screen and wide-screen versions of the website. This carousel will change every few seconds, without requiring the user to click the arrows.
+  - Rationale: The audience members expressed a desire to obtain information about IRT’s e-board; thus, the addition of this interactive carousel component will allow the audience members to get a clear overview of all the members of the club’s e-board easily and intuitively.
+
+- Interactivity idea 3:Button (Newsletter Sign-Up Option)
+  - Explanation: The website page that showcases the past newsletters will contain a button for users to have the option to sign up for the newsletter.
+  - Rationale: This interactive element meets one of the audience’s goals: accessing Newsletters/Publications. That is because this element not only engages visitors but also encourages them to sign up for the newsletter by placing it next to sample content.
+
+
+- Interactivity idea 4: Button (Facebook and Twitter Icons)
+  - Explanation: The home page will feature an interactive Facebook and Twitter icon, where if the user clicks on this button they will be taken to the IRT Facebook and/or Twitter page.
+  - Rationale: Integrating social media links will enhance digital outreach which will, in turn, increase the club’s visibility and attract new members and/or readers. Thus, this button will meet Goal 5: Facilitating Engagement with IRT.
+
+
+- Interactivity idea 5: Button (Email)
+  - Explanation: The home page will contain the contact information for the club in the form of a button. Thus, when the email is clicked, the users will be taken to a draft of an email to IRT.
+  - Rationale: This button specifically meets Goal 5: Facilitating Engagement with IRT. That is because, if users come across queries when navigating the website, they will be able to easily reach members of IRT easily. This will prevent frustration from arising, causing them to leave the website and not engage in IRT’s offerings.
+
+- Interactivity idea 6: Modal (E-Board Application QR Code)
+  - Explanation: An image of a QR code will be displayed on the E-board page. When clicked, the image will be enlarged, both on computers and on phones, in order to make it easier for audience members to scan it. When scanned, this QR code will lead the user to the E-board application.
+  - Rationale: Adding this interactive element will encourage students to apply to be a part of the e-board, even if they are navigating the website on their mobile devices and find it hard to scan the QR code due to their screen size. Thus, adding this element will not only make the website more user-friendly (Goal 4) but will also facilitate engagement with IRT (Goal 5) and provide information on the e-board application process (Goal 3).
+
+- Interactivity idea 7: Modal (Trump Image)
+  - Explanation: This modal will cause the image of Donald Trump to be enlarged when a user clicks on it when navigating the site on their mobile phones.
+  - Rationale: When users navigate the website on small screens, it may be hard to tell what the article is about prior to reading it. Thus, by adding a modal, the user will be able to enlarge the impact of Trump, recognize that the article is about him, and then read about the impact that he has had on the economy.
+  - Did not implement: The website designers chose not to add this modal because it is not necessary to meet the audience’s goals; thus, it solely poses a distraction, shifting focus away from the content and disrupting the reading flow.
+
+- Interactivity idea 8: Modal (Powell Image)
+  - Explanation: When the image of Powell is clicked, users who are on small screens will be able to see an enlarged version of the image.
+  - Rationale: On smaller screens, details in images can be hard to discern. A modal that enlarges the image of Powell will help users quickly identify the subject matter of the article.
+  - Did not implement: Similar to the modal above, the website designers chose not to add this modal because the article’s title, summary, and small image are clear enough to let the readers know that the article is about Powell’s economic impact; hence, the modal does not add significant value, and instead just serves as a distraction from the important content: the newsletter.
+
+<p><cite> Interactivity Brainstorm </cite> by Ingrid Gruener.</p>
 
 
 ### Layout Exploration (Milestone 2)
