@@ -353,6 +353,9 @@ The information from the newsletter.
 13. What haven't I asked you today that you think would be valuable for me to know?
 None.
 
+<p><cite>Interviewee 2</cite> by Elaine Wu.</p>
+
+
 **Interviewee 3:**
 
 TODO: tell us a bit about your participant
