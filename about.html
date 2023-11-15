@@ -17,14 +17,29 @@
 
 <body>
 
-    <nav class="navigation">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About Us</a></li>
-          <li><a href="newsletter.html">IRT Newsletter</a></li>
-          <li><a href="e-board.html">E-Board</a></li>
-        </ul>
-    </nav>
+    <header>
+        <div id="logoandtitle">
+            <figure>
+                <img id="irt-logo-head" src="images/IRT-logo.png" alt="IRT logo">
+            </figure>
+
+            <h6 class="pagetitle">Home</h6>
+
+            <button id="burger">
+                <!-- Source: https://icons8.com/icons/set/hamburger-menu -->
+                <img src="images/icons8-hamburger-menu-16.png" alt="hamburger button">
+            </button>
+        </div>
+
+        <nav>
+            <ul class="navbar">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="newsletter.html">IRT Newsletter</a></li>
+                <li><a href="e-board.html">E-Board</a></li>
+            </ul>
+        </nav>
+    </header>
 
     <aside>
         FAQ
@@ -34,6 +49,9 @@
         <p>All content copyright © 2023, IRT Cornell.</p>
         <p>This organization is a registered student organization of Cornell University.</p>
     </footer>
+
+    <script src="scripts/jquery-3.7.1.js"></script>
+    <script src="scripts/burgermenu.js"></script>
 
 </body>
 
