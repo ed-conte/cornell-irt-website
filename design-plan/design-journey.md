@@ -309,11 +309,49 @@ After the interview: "This was really helpful. Thank you so much for agreeing to
 
 **Interviewee 2:**
 
-TODO: tell us a bit about your participant
+Participant is a sophomore in ILR interested in going into finance after university.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+Sophomore at Cornell University originally from Boston. Interested in finance as well as tennis and basketball.
 
+2. Recall the last time you visited an organization’s website. What on that site stood out to you?
+   a. What did you like about it? What didn’t you like?
+What stood out to me was the clean and modern design of the homepage. The use of high-quality images and a well-organized layout immediately captured my attention. What stood out to me was the clean and modern design of the homepage. The use of high-quality images and a well-organized layout immediately captured my attention. While the overall experience was positive, one drawback was the lack of a search bar on the homepage. It would have been more convenient to have a quick search option for specific information. Additionally, some pages took a bit longer to load, which affected the overall speed and responsiveness of the site.
+
+3. Walk me through your process of examining the last organization website you visited.
+   a. Describe the navigation process. Which pages did you visit first?
+I began by exploring the homepage to get an overview of the organization. From there, I navigated to the "About Us" page to learn more about the company's history and values. Afterward, I visited the "People" section to explore what they offered in more detail. Finally, I checked out the "Contact" page to find information on how to get in touch with the organization.
+
+4. When looking to join a new campus club or organization, do you seek out information about the organization before applying?
+   a. If yes, what information were you specifically looking for? How did you access that information?
+I look for information such as the club's mission and goals, the activities they organize, meeting schedules, membership requirements, and any notable achievements. Usually on the website and social media.
+
+5. Is there any information that you feel is often missing or underrepresented by your sources?
+No
+
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were the challenges or difficulties you faced?
+Outdated or incomplete information on the club's official platforms. In such cases, I found it challenging to get accurate details about the club's current activities, leadership, or meeting times.
+
+7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
+Scheduling conflicts with other commitments and a lack of clarity about the club's goals and activities. Also, personal reasons such as feeling a lack of connection with the current members or not aligning with the club's values.
+
+8. What is your relationship with IRT?
+None, just heard about it.
+
+9. How did you learn of IRT?
+Through the CES website.
+
+10. What were your intentions when you originally sought to learn more about IRT?
+I was interested because I have a keen interest in economics and as such was looking at potential clubs or organizations that I could join.
+
+11. What would you be most interested in knowing about IRT?
+The mission and the initiatives been rolled out that will benefit the general Cornell populace.
+
+12. What do you consider the most valuable resources offered by IRT?
+The information from the newsletter.
+
+13. What haven't I asked you today that you think would be valuable for me to know?
+None.
 
 **Interviewee 3:**
 
