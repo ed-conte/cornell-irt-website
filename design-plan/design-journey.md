@@ -54,7 +54,7 @@ The goals for the site are to make information easily accessible while being ver
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-I want visitors to feel a very professional and classic vibe when they see the website. For themes, I was thinking of having a newspaper-like font and tones of blue. Sharp shape and imagery.
+I want visitors to feel a very professional and classic vibe when they see the website. For themes, I was thinking of having a newspaper-like font and tones of red. Sharp shape and imagery.
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
@@ -71,7 +71,7 @@ The NYT is one competitor as they display their news in a very clean and profess
   - Despite over 1,500 subscribers to the club’s newsletter, the organization is rather unknown around campus among the students
 - The client was enthusiastic about expressing their ideas for the theme
   - Common design patterns seen in other news organizations
-  - Blue tones
+  - Red tones
   - Professional typeface
   - Sharp shapes
   - Decorative dividers between content
