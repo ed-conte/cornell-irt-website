@@ -636,6 +636,11 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
+**Narrow Design:**
+TODO: layout exploration sketches + explanation
+
+
+**Wide Design:**
 TODO: layout exploration sketches + explanation
 
 
