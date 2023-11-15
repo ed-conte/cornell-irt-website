@@ -9,12 +9,37 @@ body {
     font-size: 17px;
 }
 
-.flex-container {
-    display: flex;
+h1 {
+    background-color: navy;
+    color: white;
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
 }
 
-.flex-child {
-    flex: 1;
+h2{
+    color: navy;
+    font-size: 35px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-color: #ADD8E6;
+}
+
+h5{
+    text-align: center;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 18vh;
+}
+
+.flex-container {
+    display: flex;
 }
 
 .flex-child {
@@ -25,6 +50,12 @@ body {
     margin-right: 20px;
 }
 
+.title-citation{
+    font-size: 10px;
+    text-align: center;
+}
+
 .citation{
     font-size: 10px;
+    padding-top: 0px;
 }
