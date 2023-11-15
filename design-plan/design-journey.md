@@ -604,11 +604,9 @@ Document your site's layout.
   - Explanation: The website page that showcases the past newsletters will contain a button for users to have the option to sign up for the newsletter.
   - Rationale: This interactive element meets one of the audience’s goals: accessing Newsletters/Publications. That is because this element not only engages visitors but also encourages them to sign up for the newsletter by placing it next to sample content.
 
-
 - Interactivity idea 4: Button (Facebook and Twitter Icons)
   - Explanation: The home page will feature an interactive Facebook and Twitter icon, where if the user clicks on this button they will be taken to the IRT Facebook and/or Twitter page.
   - Rationale: Integrating social media links will enhance digital outreach which will, in turn, increase the club’s visibility and attract new members and/or readers. Thus, this button will meet Goal 5: Facilitating Engagement with IRT.
-
 
 - Interactivity idea 5: Button (Email)
   - Explanation: The home page will contain the contact information for the club in the form of a button. Thus, when the email is clicked, the users will be taken to a draft of an email to IRT.
