@@ -28,3 +28,253 @@ body {
 .citation{
     font-size: 10px;
 }
+
+/* ---- Header ---- */
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #6f6f6f;
+}
+
+#logoandtitle {
+    display: flex;
+    flex-direction: row;
+    background-color: #4b4b4b;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+    max-height: 70px;
+}
+
+#irt-logo-head {
+    max-width: auto;
+    max-height: 70px;
+}
+
+.pagetitle {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    padding: 0;
+    color: #000000;
+}
+
+/* ---- navbar ---- */
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.navbar li {
+    justify-content: space-around;
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 1.2vw;
+    color: #4b4b4b;
+}
+
+.navbar a:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* ---- homepage styling ---- */
+
+#welcome {
+
+}
+
+#platform {
+
+}
+
+/* ---- Images ---- */
+
+img {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+#burger {
+    display: none;
+    background-color: #6f6f6f;
+}
+
+/* ---- sidebar ---- */
+
+.page {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 0%;
+    word-spacing: 2px;
+}
+
+aside {
+    order: 2;
+    background-color: #6f6f6f;
+    color: #000000;
+    padding: 2%;
+    max-width: 15%;
+    min-width: 15%;
+}
+
+.main {
+    display: flex;
+    flex-direction:column;
+}
+
+/* ---- footer ---- */
+
+footer {
+    display: flex;
+    background-color: #6f6f6f;
+    padding: 8px;
+}
+
+footer p {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color:#000000;
+}
+
+@media (max-width: 900px) {
+
+    header {
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+        margin-bottom: fit-content;
+    }
+
+    figure {
+        padding: 0;
+        height: fit-content;
+        width: fit-content;
+    }
+
+    #irt-logo-head {
+        height: 70px;
+        width: 154px;
+    }
+
+    .pagetitle {
+        margin-top: 17px;
+        margin-left: 10px;
+        font-size: 24pt;
+    }
+
+    #burger {
+        display: flex;
+        width: 32px;
+        height: 32px;
+        margin-top: 20px;
+    }
+
+    #burger img {
+        margin-top: 5px;
+    }
+
+    .navmenu {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .navmenu *{
+        text-align: center;
+        margin: 12px;
+    }
+
+    .navmenu a {
+        justify-content: space-between;
+        font-size: 15pt;
+        padding: 15px;
+    }
+
+    .page {
+        flex-direction: column;
+        margin: 0%;
+        max-width: 100%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    aside {
+        order: 2;
+        width: 92%;
+        min-width: auto;
+        max-width: none;
+        padding-left: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* ---- newsletter styling in narrow---- */
+
+    .flex-container {
+        flex-direction: column;
+    }
+
+    #article1 {
+        order: ;
+    }
+    #article2 {
+        order: ;
+    }
+
+    #article3 {
+        order: ;
+    }
+
+    #article4 {
+        order: ;
+    }
+    #article5 {
+        order: ;
+    }
+    #article6 {
+        order: ;
+    }
+    #img1 {
+        order: ;
+    }
+    #img2 {
+        order: ;
+    }
+    #img3 {
+        order: ;
+    }
+    #img4 {
+        order: ;
+    }
+    #img5 {
+        order: ;
+    }
+    #img6 {
+        order: ;
+    }
+}
+
+/* Keep these last so they do not conflict with anything */
+.hidden {
+    display: none !important;
+}
+
+.hidden *{
+    display: none !important;
+}
