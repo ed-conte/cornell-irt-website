@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    background-color: navy;
+    background-color: #800020;
     color: white;
     font-size: 50px;
     padding: 10px;
@@ -29,6 +29,11 @@ h2{
 h5{
     text-align: center;
 
+}
+
+h6{
+    font-size: 40px;
+    color: white;
 }
 
 .container {
@@ -91,7 +96,7 @@ figure {
     margin-right: 10px;
     margin-bottom: 0px;
     padding: 0;
-    color: #000000;
+    color: white;
 }
 
 /* ---- navbar ---- */
@@ -112,7 +117,7 @@ figure {
     text-decoration: none;
     padding: 20px;
     font-size: 1.2vw;
-    color: #4b4b4b;
+    color: white;
 }
 
 .navbar a:hover {
