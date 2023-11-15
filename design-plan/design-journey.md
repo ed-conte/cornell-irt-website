@@ -314,6 +314,7 @@ TODO: tell us a bit about your participant
 TODO: copy interview questions
 TODO: take notes inline with questions
 
+
 **Interviewee 3:**
 
 TODO: tell us a bit about your participant
@@ -443,6 +444,8 @@ Include two screenshots of the home page for each site: narrow and wide.
 > In your review, include a discussion common design patterns and interactivity in the site.
 
 TODO: website reflection/critique
+
+<p><cite> Example Website 1 Review </cite> by Edward Conte.</p>
 
 
 ### Example Website 2 Review (Milestone 2)
@@ -581,6 +584,8 @@ The final page is labeled ‘E-Board’. This name is relevant because Cornell s
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
 TODO: theme ideas, rationale, and final theme
+
+<p><cite> Visual Theme </cite> by Edward Conte.</p>
 
 
 ## Design (Milestone 2)
