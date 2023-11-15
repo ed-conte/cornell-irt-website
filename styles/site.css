@@ -14,26 +14,44 @@ h1 {
     color: white;
     font-size: 50px;
     padding: 10px;
+    margin: 0px;
     text-align: center;
 }
 
 h2{
     color: #800020;
-    font-size: 35px;
+    font-size: 45px;
     padding: 10px;
     text-align: center;
     text-decoration: overline;
     text-decoration-color: #D3D3D3;
 }
 
+h3{
+    color: #800020;
+    background-color: #D3D3D3;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 0px;
+    text-align: center;
+    text-decoration-color: #800020;
+}
+
+h4{
+    font-size: 25px;
+}
+
 h5{
     text-align: center;
-
 }
 
 h6{
     font-size: 40px;
     color: white;
+}
+
+p{
+    font-size: 20px;
 }
 
 .container {
@@ -134,6 +152,24 @@ figure {
 #platform {
 
 }
+
+/* ---- newsletter page styling ---- */
+.subscribe {
+    transition: border 0.3s ease;
+    border: transparent;
+}
+
+.subscribe:hover {
+    border: 5px solid #800020;
+}
+
+.newsletter-citation {
+    font-size: 10px;
+    text-align: center;
+    padding: 0px;
+    margin:0px;
+}
+
 
 /* ---- Images ---- */
 
