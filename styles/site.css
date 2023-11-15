@@ -196,6 +196,7 @@ img {
 
 aside {
     order: 2;
+    flex: 1;
     background-color: #6f6f6f;
     color: #000000;
     padding: 2%;
@@ -205,6 +206,7 @@ aside {
 
 .main {
     display: flex;
+    flex: 2;
     flex-direction:column;
 }
 
