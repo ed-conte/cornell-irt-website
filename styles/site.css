@@ -1,9 +1,9 @@
 html {
-    background-color: #eff7fa;
+    background-color: whitesmoke;
 }
 
 body {
-    background-color: #eff7fa;
+    background-color: whitesmoke;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
@@ -18,12 +18,12 @@ h1 {
 }
 
 h2{
-    color: navy;
+    color: #800020;
     font-size: 35px;
     padding: 10px;
     text-align: center;
     text-decoration: overline;
-    text-decoration-color: #ADD8E6;
+    text-decoration-color: #D3D3D3;
 }
 
 h5{
