@@ -1,0 +1,23 @@
+html {
+    background-color: #d3c1b1;
+}
+
+body {
+    background-color: #d3c1b1;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
