@@ -50,6 +50,14 @@ h6{
     color: white;
 }
 
+h7{
+    font-size: 18px;
+    color: black;
+    text-decoration: overline #800020;
+    text-align: center;
+    text-transform: capitalize;
+}
+
 p{
     font-size: 20px;
 }
@@ -197,11 +205,20 @@ img {
 aside {
     order: 2;
     flex: 1;
-    background-color: #6f6f6f;
+    background-color: #D3D3D3;;
     color: #000000;
     padding: 2%;
     max-width: 15%;
     min-width: 15%;
+}
+
+#faq p {
+    font-size: 16px;
+    color:#800020;
+}
+
+#faq li {
+    font-size: 14px;
 }
 
 .main {
