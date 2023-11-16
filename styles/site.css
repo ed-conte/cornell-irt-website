@@ -322,6 +322,7 @@ aside {
 
 footer {
     display: flex;
+    flex-direction: row;
     background-color: #6f6f6f;
     padding: 8px;
 }
@@ -331,6 +332,48 @@ footer p {
     padding-right: 10px;
     text-decoration: none;
     color:#000000;
+    margin-left: auto;
+    margin-right: 14px;
+    align-self: center;
+}
+
+.twitter-button {
+    background: rgba(0, 0, 0, 0);
+    border: none;
+
+    display: block;
+    padding: 8px;
+    margin: auto 4px;
+    border-radius: 4px;
+
+    width: 100px;
+    height: auto;
+}
+
+.facebook-button {
+    background: rgba(0, 0, 0, 0);
+    border: none;
+
+    display: block;
+    padding: 8px;
+    margin: auto 4px;
+    border-radius: 4px;
+
+    width: 100px;
+    height: auto;
+}
+
+.mail-button {
+    background: rgba(0, 0, 0, 0);
+    border: none;
+
+    display: block;
+    padding: 8px;
+    margin: auto 4px;
+    border-radius: 4px;
+
+    width: 100px;
+    height: auto;
 }
 
 @media (max-width: 900px) {
