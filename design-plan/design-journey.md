@@ -847,7 +847,7 @@ TODO: wide sketches and explanation
 
 The website's content is organized into clearly labeled pages: Home, E-board, About, and Newsletter. This structure was chosen as it directly caters to the primary interests of the audience. By segmenting content into these categories, the site permits students to quickly find information relevant to their goals, promoting efficient and targeted browsing. The navigation is designed to be concise and user-friendly, employing a top navigation bar that remains consistent across all pages. This design pattern is familiar to most users, reducing the learning curve and user experience. Such ease of navigation is crucial for students who are often time-constrained and seeking quick information about the club. Additionally, the use of an aside is popular among websites to display brief information to the users. without requiring them to scour the website for it. The layout is clean and minimalistic, with a focus on readability and ease of use, reflecting the theme of the club. This design choice was intended to appeal to the audience's intellectual curiosity, presenting content in an uncluttered, focused manner. Moreover, the use of the club's colors (red, grey, and white) in the design maintains brand consistency and creates a visually appealing aesthetic that remains cohesive with the club's existing identity. Familiar design patterns have been employed, such as a prominently displayed header containing the page title and navigation bar, a footer with additional links and information, and an aside with frequently asked questions. By using these patterns, the website offers a sense of familiarity, making it easier for users to navigate and interact with the site. Using visual cues like icons for different sections and buttons, such as the hamburger menu, also helps make the site more intuitive and user-friendly.
 
-<p><cite> Visual Theme </cite> by Edward Conte.</p>
+<p><cite> Design Rationale </cite> by Edward Conte.</p>
 
 
 ## Interactivity Rationale (Milestone 2)
@@ -857,11 +857,10 @@ The website's content is organized into clearly labeled pages: Home, E-board, Ab
 When the user is reading the website on a small screen, the hamburger menu icon will appear, prompting the user to press it for the navigation menu. Implementing a hamburger menu will improve information accessibility by optimizing the limited screen space of the narrow layout. This facilitates visitors' traversal of the website and improves the usability of this website regardless of the device they are searching on. This Interaction fulfills a key audience goal: for the website to have straightforward navigation and a user-friendly design.
 An image carousel will be implemented, allowing the user to view images of the co-presidents of the club and their contact information on the E-board page. Under their information, users can also cycle through short snippets from the presidents. The navigation of the carousel will be familiar to users through interactive arrow buttons, which clearly communicate their purpose. The interactive image carousel will advance users toward their goal of getting to know the club e-board through its presentation of their photos and writing.
 On the newsletter page, which presents an example of the club’s articles, an interactive button will lead users to a separate page where they are encouraged to fill out their information to sign up for the club email newsletter. This fulfills a major audience goal of locating how to engage with the club through the newsletter subscription.
-
 Throughout the website, the footer will contain icons leading to the club’s Facebook, Twitter, and Gmail. Users will be able to interact with these buttons to engage with IRT club members on said platforms, enhancing club outreach and engagement with the club. This will benefit the audience by bringing them closer to their goals and the club by bringing attention to their other platforms and facilitating communication with potential members.
 A large QR-code image will be placed on the e-board page, prompting users to click it based on visual cues (curser pointer changing). When this button is clicked, the QR code will enlarge, permitting users to scan the code with another device or scanning program. When the code is scanned, users will be led to the IRT e-board application. Implementing this interactivity provides users with additional information regarding the application process, promotes interaction with IRT, and enhances user experience and accessibility on the website.
 
-<p><cite> Visual Theme </cite> by Edward Conte.</p>
+<p><cite> Interactivity Rationale </cite> by Edward Conte.</p>
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -1032,9 +1031,9 @@ When #close is clicked:
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+The completed site was shown to the client, and they were asked to check through the site, review the site's text sections, images, and sections. Once the client skimmed the pages and interacted with the javascript interactivity on their own pace, a teammember walked the client through the the site and reviewed each page with them. The client was impressed with the professionalism of each page and the cohesiveness of the site with their vision and intentions for the site. The team member reviewed the interactivity of the site with the client and explained how each interaction related to the goals of the audience discovered through user interviews. The client agreed with the goals and was particularly excited about the implementation of elements that encourage users to interact with members of the IRT team and potentially join the club.
 
-TODO: meeting minutes
+- the review with the client lasted approximatly 7 minutes
 
 <p><cite> Client Feedback & Minutes </cite> by Eddie Conte.</p>
 
