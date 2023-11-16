@@ -823,6 +823,8 @@ Document your site's layout.
 
 ![Newsletter page design](design-plan/../exploratory-narrow-newsletter.jpg)
 
+![E-Board page design](design-plan/../exploratory-narrow-eboard.jpg)
+
 **Wide Design:**
 ![Home page design](design-plan/../exploratory-wide-home.jpg)
 
@@ -831,6 +833,10 @@ Document your site's layout.
 ![Newsletter page design](design-plan/../exploratory-wide-newsletter-1.jpg)
 
 ![Newsletter page design](design-plan/../exploratory-wide-newsletter-2.jpg)
+
+![E-Board page design](design-plan/../exploratory-wide-eboard-1.jpg)
+
+![E-Board page design](design-plan/../exploratory-wide-eboard-2.jpg)
 
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
