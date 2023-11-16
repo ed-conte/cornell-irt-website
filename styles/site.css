@@ -112,7 +112,6 @@ figure {
 }
 
 #irt-logo-head {
-    max-width: auto;
     max-height: 70px;
 }
 
@@ -429,7 +428,6 @@ footer p {
         margin-left: auto;
         margin-right: auto;
         width: auto;
-        margin-bottom: fit-content;
     }
 
     figure {
