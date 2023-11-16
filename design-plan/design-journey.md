@@ -827,7 +827,12 @@ Explanation: The idea behind the about page sketch was to provide the necessary 
 
 ![Newsletter page design](design-plan/../exploratory-narrow-newsletter.jpg)
 
-The idea behind the about page sketch was to provide the necessary information for visitors to get an idea of the past newsletters that IRT has published. Nonetheless, to make this content easily accessible on narrow screens, all the information is stacked (including the aside). This stacking is commonly done on websites to optimize the screen space. The navigation bar and footer are the same on all pages, as commonly practiced. 
+Explanation: The idea behind the about page sketch was to provide the necessary information for visitors to get an idea of the past newsletters that IRT has published. Nonetheless, to make this content easily accessible on narrow screens, all the information is stacked (including the aside). This stacking is commonly done on websites to optimize the screen space. The navigation bar and footer are the same on all pages, as commonly practiced.
+
+![E-Board page design](design-plan/../exploratory-narrow-eboard.jpg)
+
+Explanation: This sketch features the commonly seen stacked content for narrow screens. The content on this page presents users with the necessary information about E-board. Nonetheless, to optimize the screen space, a carrousel was implemented. To allow for users to easily apply for E-board positions, a modal was used for the QR code. The footer and navigation bar remains the same.
+
 
 **Wide Design:**
 ![Home page design](design-plan/../exploratory-wide-home.jpg)
