@@ -819,18 +819,32 @@ Document your site's layout.
 **Narrow Design:**
 ![Home page design](design-plan/../exploratory-narrow-home.jpg)
 
+Explanation: The idea behind this sketch was to allow for the website visitor's to immediately understand what IRT stood for. Thus, the navigation menu includes labels like home, about, newsletter, and e-board. The navigation menu is placed at the top of the screen, in the form of a hamburger menu, since this is customarily the way that websites are structured. This commonly used format facilitates navigation.
+
 ![About page design](design-plan/../exploratory-narrow-about.jpg)
 
+Explanation: The idea behind the about page sketch was to provide the necessary information for visitors to understand what IRT stands for and how they can get involved. Nonetheless, to make this content easily accessible on narrow screens, all the information is stacked (including the aside). This stacking is commonly done on websites to optimize the screen space. As previously mentioned, the navigation bar (along with the logo) is placed at the top of the screen, as is commonly done across websites. At the bottom of the page, users are able to find important information about ways to contact IRT, and their social media platforms. The footer also includes copyright content, which is normally found across most websites.
+
 ![Newsletter page design](design-plan/../exploratory-narrow-newsletter.jpg)
+
+Explanation: The newsletter page opens with the navigation menu at the top of the screen, making it easily accessible. The content that follows is stacked to optimize the screen space and allow for easy use. At the end of the screen, users can find the footer with the same content across all pages; the content repetition in the footer is a common practice, allowing users to find the most vital information on any page they find themselves on.
 
 **Wide Design:**
 ![Home page design](design-plan/../exploratory-wide-home.jpg)
 
+Explanation: The home page has the same content in both the wide version and the narrow version; it is a common practice to make sure that the audience can access all information regardless of their device. Instead of being stacked, most of the content is now seen side by side in order to make the most of the screen space. Thus, the navigation bar is now at the top of the page in a horizontal format, instead of a vertical one. The footer stayed the same.
+
 ![About page design](design-plan/../exploratory-wide-about.jpg)
+
+Explanation: The about page features a similar format as the home page. That is because the main content is found beside the aside; this is a common practice for wide screen layouts. For consistency reasons, the navigation bar and footer are kept the same on all pages.
 
 ![Newsletter page design](design-plan/../exploratory-wide-newsletter-1.jpg)
 
+Explanation: The newsletter page opens with a horizontal navigation menu at the top of the screen, making it easily accessible. The content below that is arranged in a Z-pattern; thus, the images are placed beside the content that corresponds to them. The Z-pattern was implemented because it was proposed by one of the individuals who were interviewed. At the end of the screen, users can find the footer with the same content across all pages; the content repetition in the footer is a common practice.
+
 ![Newsletter page design](design-plan/../exploratory-wide-newsletter-2.jpg)
+
+Explanation: This sketch is a continuation of the last newsletter design. Here  it is evident that the Z-pattern continues until the bottom of the page. At the end of the screen, the footer has content that users can interact with; specifically, the footer makes it easy for users to find IRT's social media platforms and contact information (in case they have any questions that have not been answered through the website).
 
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
