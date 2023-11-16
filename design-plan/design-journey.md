@@ -1033,7 +1033,10 @@ When #close is clicked:
 
 The completed site was shown to the client, and they were asked to check through the site, review the site's text sections, images, and sections. Once the client skimmed the pages and interacted with the javascript interactivity on their own pace, a teammember walked the client through the the site and reviewed each page with them. The client was impressed with the professionalism of each page and the cohesiveness of the site with their vision and intentions for the site. The team member reviewed the interactivity of the site with the client and explained how each interaction related to the goals of the audience discovered through user interviews. The client agreed with the goals and was particularly excited about the implementation of elements that encourage users to interact with members of the IRT team and potentially join the club.
 
+Minutes:
 - the review with the client lasted approximatly 7 minutes
+- the client was impressed with how we implemented interactivity for the goals
+- the client agreed with the audience's goals 
 
 <p><cite> Client Feedback & Minutes </cite> by Eddie Conte.</p>
 
