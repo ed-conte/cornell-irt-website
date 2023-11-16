@@ -857,7 +857,7 @@ Explanation: The sketch was implemented to make it clear as to how users should 
 
 ![E-board page design](design-plan/../exploratory-wide-e-board-2.jpg)
 
-Explanation: This sketch outlines the look and feel of the QR code modal. This modal was implemented in order to allow for users to expand the QR code to easily scan it and apply for an E-board position. Using modals for important content is a common practice. 
+Explanation: This sketch outlines the look and feel of the QR code modal. This modal was implemented in order to allow for users to expand the QR code to easily scan it and apply for an E-board position. Using modals for important content is a common practice.
 
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
@@ -872,26 +872,48 @@ Explanation: This sketch outlines the look and feel of the QR code modal. This m
 
 ![Home page design](design-plan/../final-narrow-home.jpg)
 
+Explanation: The sketch shows the coding elements that were used for the narrow home page. The divs and classes that were implemented allowed for the content to be stacked to make the most of the screen space. The navigation coding elements made it possible to change between the wide navigation and narrow navigation.
+
 ![About page design](design-plan/../final-narrow-about.jpg)
+
+Explanation: The same classes and elements were used to code the about opge for consistency.
 
 ![Newsletter page design](design-plan/../final-narrow-newsletter.jpg)
 
+Explanation: The narrow newsletter page contains stacked content paired with the appropriate images. In order to accomplish this parent and child elements were used.
+
 ![E-Board page design](design-plan/../final-narrow-eboard.jpg)
+
+Explanation: The e-board page shows the necessary classes and id's for the carrousel menu and modal.
 
 
 **Wide Design:**
 
 ![Home page design](design-plan/../final-wide-home.jpg)
 
+Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
+
 ![About page design](design-plan/../final-wide-about.jpg)
 
-![Newsletter page design](design-plan/../final-wide-newsletter-2.jpg)
+Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
 
 ![Newsletter page design](design-plan/../final-wide-newsletter-2.jpg)
+
+Explanation: The same classes and elements were used to code this page  as the narrow version for consistency.
+
+![Newsletter page design](design-plan/../final-wide-newsletter-2.jpg)
+
+Explanation: The same classes and elements were used to code this page  as the narrow version for consistency.
 
 ![E-Board page design](design-plan/../final-wide-eboard-1.jpg)
 
+Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
+
 ![E-Board page design](design-plan/../final-wide-eboard-2.jpg)
+
+Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
+
+<p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
 
 ### Design Rationale (Milestone 2)
