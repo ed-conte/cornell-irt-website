@@ -163,8 +163,12 @@
                 <h2>E-Board Application</h2>
                 <picutre>
                     <!-- Source: Provided by Cornell IRT -->
-                    <img src="images/qr-code.png" alt="Headshot of Joel Pang">
+                    <img id="qr" src="images/qr-code.png" alt="qr code">
                 </picture>
+                <div id="qrmodal" class="hidden">
+                    <span class="close">&times;</span>
+                    <img id="qr-in-modal" src="images/qr-code.png" alt="qrmodal">
+                </div>
             </section>
         </main>
     </div>
@@ -188,6 +192,7 @@
     <script src="scripts/jquery-3.7.1.js"></script>
     <script src="scripts/burgermenu.js"></script>
     <script src="scripts/chief-editor-carousel.js"></script>
+    <script src="scripts/qr.js"></script>
 </body>
 
 </html>
