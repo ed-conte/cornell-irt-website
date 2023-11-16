@@ -1,4 +1,3 @@
-
 function hide_nav() {
     if (window.innerWidth <= 900) {
       $(".navbar").addClass("hidden");
