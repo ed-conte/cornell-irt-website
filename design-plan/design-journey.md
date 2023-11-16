@@ -358,24 +358,132 @@ None.
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
+- Sophomore at Cornell
+  - Information science major
+    - Intends to go into tech policy and eventually study law
 
-TODO: add additional interviewees as needed
+2. Recall the last time you visited an organization’s website. What on
+   2a. that site stood out to you? What did you like about it? What didn’t you like?
+
+- Visited the Oar Tompkins County website
+  - Information was insightful
+  - The website was well-constructed
+  - Professional
+  - Cohesive design
+  - Not formatted well
+  - Information was not easily found
+  - Required searching to find basic information
+
+3. Walk me through your process of examining the last organization's website you visited.
+  3a. Describe the navigation process. Which pages did you visit first?
+
+- Entered the site via the homepage
+  - Scrolled through the homepage, looking for information
+  - Went to the services page
+  - Then, the housing page
+
+4. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
+
+- Yes
+  - What they look for
+    - Club values
+    - Organization purpose
+    - Recruitment process
+    - Club members
+    - What does the organization do?
+
+5. Is there any information that you feel is often missing or underrepresented by your sources?
+
+- No
+
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were the challenges or difficulties you faced?
+
+- Many of the Cornell clubs do not have their own websites and instead have a page on one of the cub platforms
+- makes it extremely difficult to find information about them.
+
+7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
+
+- Wanted to join one of the competitive clubs
+  - Interviewed with them but got cut
+- Other more important commitments
+
+8. What is your relationship with IRT?
+
+- Is a writer for IRT
+
+9. How did you learn of IRT?
+
+- Friends with a writer and the club president
+
+10. What were your intentions when you initially sought to learn more about IRT?
+
+- Wanted to join IRT for a while
+  - Aligns with major and goals for career
+  - Did not get to join until recruitment began
+
+11.  What would you be most interested in knowing about IRT?
+
+- As a writer
+  - Don’t know how topics are picked to be written about
+  - Would like to know how these topics are picked
+
+12.  What do you consider the most valuable resources offered by IRT?
+
+- The website is extremely important
+  - The way users can sign up to the newsletter
+  - This drives the club and keeps it going
+
+13. What haven't I asked you today that you think would be valuable for me to know?
+- nothing
+
+<p><cite>interview 3</cite> by Edward Conte</p>
 
 
 **Interviewee 4:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+- I am a current Junior studying Business Administration with a concentration in Economics.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+2. Recall the last time you visited an organization’s website. What on that site stood out to you? - What did you like about it? What didn’t you like?
+- The last time I visited someone's website was probably a few weeks ago when I saw a flyer up in the hallway and I wanted to know more about the organization, but I don’t remember which organization it was for. The images and very detailed graphics the organization decided to include stood out to me, and the front page included very helpful information. I didn’t like the transition the website had, like certain images would load into the page weirdly and it took a long time to show or would only show when I scrolled to a certain part. I did like how neat the website was, how helpful the information on the front page was; I enjoy when websites have easy navigators.
 
+3. Walk me through your process of examining the last organization website you visited. Describe the navigation process. Which pages did you visit first?
+- I clicked on the link, scrolled through the front page, went to the navigator, looked at the about page, specifically the contact us portion, went to the alumni section, and then went back to home.
 
-TODO: add additional interviewees as needed
+4. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
+- If I have an interest in joining a club or organization, I tend to mostly seek out information pertaining to requirements and time commitment. I would ask if the person is there or I would visit their page online and go to contact and click on whoever would be in the role to answer questions about the org.
+
+5. Is there any information that you feel is often missing or underrepresented by your sources?
+- Not really.
+
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were these challenges or difficulties you faced?
+- One time I was not able to find where the club was meeting because they had the wrong location and that made it really hard for me to find them on campus to meet. Even the emails they would send had the wrong location.
+
+7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
+- Time commitment is a big factor that keeps me away from joining particular clubs, or if it's hard to find information about the club I probably will not join.
+
+8. What is your relationship with IRT?
+- IRT is a website I look out every so often to see what is going on because of my major. It is not my main source of news but I do find my self scrolling on it to find some stuff that is going on.
+
+9. How did you learn of IRT?
+- I learned about IRT through a friend who is also interested in checking out the website for interesting articles.
+
+10. What were your intentions when you originally sought to learn more about IRT?
+- I wanted to know what was IRT about. It seemed really interesting to me the way a friend explained what it was so I wanted to experience this for myself.
+
+11. What would you be most interested in knowing about IRT?
+- I would be interested to know more about what goes into their process of article topics and what goes into being a part of IRT in general.
+
+12. What do you consider the most valuable resources offered by IRT?
+- I think the most valuable resources are their articles because those seem to be what has attracted me and my friends to IRT overall.
+
+13. What haven't I asked you today that you think would be valuable for me to know?
+- Nothing.
+
+<p><cite>Interview 4</cite> by Autumn Kretzschmar.</p>
 
 
 ### Goals (Milestone 2)
@@ -443,7 +551,7 @@ TODO: add additional interviewees as needed
 
 - Cohesive: Cornell students who are interested in exploring the field of economics by engaging in reading and/or writing form a cohesive group for numerous reasons. To begin, the target audience members have a common interest in economics, which is a broad yet specific field of study. Thus, this shared interest creates a natural basis for the content that is relevant to the website. Nonetheless, since the specific group of students that were selected were those that attend Cornell University, it is likely that the audience members are academically driven and intellectually curious. This trait builds on the cohesive nature of the audience members as the website aims to offer thought-provoking content in the field of economics. Not to mention, the fact that the audience members are all part of the Cornell community makes it easier to tailor content that is relevant to their academic and social setting, such as economics-related global issues that are impacting the Cornell community. That being said, the fact that the audience group includes those who are both interested in reading and writing allows for the website to value diversity of contribution. The audience’s focus on diverse learning methods, in turn, caters to those who value a different style of engaging in economics-related content whether that be through consuming knowledge or producing it. Similarly, the emphasis on reading and writing aligns with individuals who are interested in developing their comprehension, analysis, and communication skills, which are some of the most fundamental skills in a field like economics.
 
-<p><cite>Audience</cite> by Ingrid Gruener.</p>
+<p><cite>Audience</cite> by Ingrid Gruener and Edward Conte</p>
 
 
 ## Website Design Exploration (Milestone 2)
@@ -461,11 +569,12 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <https://www.cornelluxdesign.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Narrow Screenshot of CUxD homepage](design-plan/../example-site-1-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Wide Screenshot of CUxD homepage](design-plan/../example-site-1-wide.png)
+
 
 2. <https://cornellsun.com/>
 
@@ -484,7 +593,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+This website follows common design patterns while adding unique elements to improve the site's visual aesthetic. The colors of the site are cohesive and indicative of the site’s primary audience and topic.  A navigation bar exists on all pages within the site: about, team, and contact. When a device is displaying the site in a wide browser window, these pages are displayed to the right of the site logo within the header. If the browser is resized to examine the narrow layout, the navigation bar is hidden, and instead, the user is prompted to click a hamburger menu, which expands to fill the entire window. The content on this site is divided into four pages, each featuring images within shapes alongside informative text. The homepage consists of the club's mission and quick information about what they do. The text is short and concise, a common trend within this site. A team page lists the members of the club e-board, informative and important for new members. The contact page primarily consists of a contact form that site users may fill out. His contact form is prevalent throughout the site, with a link at the bottom of each page.
 
 <p><cite> Example Website 1 Review </cite> by Edward Conte.</p>
 
@@ -549,7 +658,7 @@ Plan your site's content.
 - Link: Twitter
 - Link: Facebook
 
-<p><cite> Your Site's Planned Content </cite> by Ingrid Gruener.</p>
+<p><cite> Your Site's Planned Content </cite> by Ingrid Gruener and Edward Conte</p>
 
 
 ### Content Justification (Milestone 2)
@@ -607,7 +716,6 @@ Specifically, this card-sorting iteration addresses the specific needs and goals
 - Page 3: Newsletter
 - Page 4: E-Board
 
-
 > Explain why the names of these pages make sense for your site's audience.
 
 The names of the pages for the IRT website are tailored to the interests and needs of the target audience. To begin, the ‘Home’ page allows for an intuitive user experience. That is because the home page is a page that is customarily used, and labeled, across the majority of websites on the internet. Specifically, like most home pages, the one on this website will provide an overview of what to expect as users navigate through the website. On the home page, users are also able to find contact information and more content that allows them to engage with IRT’s offerings. Thus, after looking through the home page, the users will be able to know where to navigate to find more detailed information, aligning with the goals of providing comprehensive club information and facilitating engagement.
@@ -624,7 +732,33 @@ The final page is labeled ‘E-Board’. This name is relevant because Cornell s
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
+Theme 1
+
+- Typography: Clean, modern sans-serif fonts (Helvetica or Arial) for body text, with bold, striking serif fonts for headlines to combine readability with academics
+- Imagery: economic symbols, Cornell campus, and journalistic elements, alongside infographics explaining economic concepts.
+- Shape: Geometric shapes with sharp edges to convey precision and clarity
+- Color: Predominantly grey and white background with red accents for emphasis and to maintain brand consistency.
+- Why it fits: This theme resonates with the academically driven and intellectually curious nature of Cornell students, presenting content in a clean, sophisticated manner that stimulates intellectual engagement.
+
+Theme 2:
+
+- Typography: A combination of a modern serif font for headings (Times New Roman) sans-serif for body text (Roboto)
+- Imagery: Images reflecting club writing and members
+- Shape: Rounded shapes and fluid lines
+- Color: A balanced mix of red, grey, and white, using gradients to add depth and modernity.
+- Why it fits: This theme appeals to students’ desire for current, relevant content, reflecting their interest in both consuming and producing diverse economic knowledge, and fosters a sense of community and engagement.
+
+Theme 3:
+
+- Typography: Traditional serif fonts for body text (Garamond), classic sans-serif fonts for headlines (Futura), reflecting time-honored academic aesthetic
+- Imagery: Classic imagery of Cornell, irt members and relevant images to writing topics
+- Shape: rectangles and squares with clean lines, suggesting structure
+- Color: A dominant grey and white palette with red used sparingly for important highlights and features.
+- Why it fits: This theme aligns with the audience’s academic environment and intellectual curiosity, offering a traditional, scholarly backdrop that complements their study of economics.
+
+Final Theme: Theme 3
+Rationale:
+	Theme 3 is an ideal fit for the site's audience because it combines a clean and contemporary design with academic seriousness. This is intended to mirror the intellectually curious and academically driven nature of Cornell students as well as incorporating elements of the previous In Real Terms website into the design. Its use of modern typography and high-resolution imagery aligns with the student's interest in current economic issues and other journalistic sources, producing a sense of cohesiveness and familiarity. Furthermore, the theme's use of geometric shapes and the club's red, grey, and white colors create a visually appealing and brand-cohesive interface that resonates with a young, informed audience eager to explore economics through reading and writing.
 
 <p><cite> Visual Theme </cite> by Edward Conte.</p>
 
@@ -672,7 +806,7 @@ Document your site's layout.
   - Rationale: On smaller screens, details in images can be hard to discern. A modal that enlarges the image of Powell will help users quickly identify the subject matter of the article.
   - Did not implement: Similar to the modal above, the website designers chose not to add this modal because the article’s title, summary, and small image are clear enough to let the readers know that the article is about Powell’s economic impact; hence, the modal does not add significant value, and instead just serves as a distraction from the important content: the newsletter.
 
-<p><cite> Interactivity Brainstorm </cite> by Ingrid Gruener.</p>
+<p><cite> Interactivity Brainstorm </cite> by Ingrid Gruener and Edward Conte</p>
 
 
 ### Layout Exploration (Milestone 2)
@@ -688,6 +822,8 @@ TODO: layout exploration sketches + explanation
 
 **Wide Design:**
 TODO: layout exploration sketches + explanation
+
+<p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
 
 ### Final Design (Milestone 2)
@@ -711,31 +847,200 @@ TODO: wide sketches and explanation
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+The website's content is organized into clearly labeled pages: Home, E-board, About, and Newsletter. This structure was chosen as it directly caters to the primary interests of the audience. By segmenting content into these categories, the site permits students to quickly find information relevant to their goals, promoting efficient and targeted browsing. The navigation is designed to be concise and user-friendly, employing a top navigation bar that remains consistent across all pages. This design pattern is familiar to most users, reducing the learning curve and user experience. Such ease of navigation is crucial for students who are often time-constrained and seeking quick information about the club. Additionally, the use of an aside is popular among websites to display brief information to the users. without requiring them to scour the website for it. The layout is clean and minimalistic, with a focus on readability and ease of use, reflecting the theme of the club. This design choice was intended to appeal to the audience's intellectual curiosity, presenting content in an uncluttered, focused manner. Moreover, the use of the club's colors (red, grey, and white) in the design maintains brand consistency and creates a visually appealing aesthetic that remains cohesive with the club's existing identity. Familiar design patterns have been employed, such as a prominently displayed header containing the page title and navigation bar, a footer with additional links and information, and an aside with frequently asked questions. By using these patterns, the website offers a sense of familiarity, making it easier for users to navigate and interact with the site. Using visual cues like icons for different sections and buttons, such as the hamburger menu, also helps make the site more intuitive and user-friendly.
+
+<p><cite> Design Rationale </cite> by Edward Conte.</p>
 
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+When the user is reading the website on a small screen, the hamburger menu icon will appear, prompting the user to press it for the navigation menu. Implementing a hamburger menu will improve information accessibility by optimizing the limited screen space of the narrow layout. This facilitates visitors' traversal of the website and improves the usability of this website regardless of the device they are searching on. This Interaction fulfills a key audience goal: for the website to have straightforward navigation and a user-friendly design.
+An image carousel will be implemented, allowing the user to view images of the co-presidents of the club and their contact information on the E-board page. Under their information, users can also cycle through short snippets from the presidents. The navigation of the carousel will be familiar to users through interactive arrow buttons, which clearly communicate their purpose. The interactive image carousel will advance users toward their goal of getting to know the club e-board through its presentation of their photos and writing.
+On the newsletter page, which presents an example of the club’s articles, an interactive button will lead users to a separate page where they are encouraged to fill out their information to sign up for the club email newsletter. This fulfills a major audience goal of locating how to engage with the club through the newsletter subscription.
+Throughout the website, the footer will contain icons leading to the club’s Facebook, Twitter, and Gmail. Users will be able to interact with these buttons to engage with IRT club members on said platforms, enhancing club outreach and engagement with the club. This will benefit the audience by bringing them closer to their goals and the club by bringing attention to their other platforms and facilitating communication with potential members.
+A large QR-code image will be placed on the e-board page, prompting users to click it based on visual cues (curser pointer changing). When this button is clicked, the QR code will enlarge, permitting users to scan the code with another device or scanning program. When the code is scanned, users will be led to the IRT e-board application. Implementing this interactivity provides users with additional information regarding the application process, promotes interaction with IRT, and enhances user experience and accessibility on the website.
 
+<p><cite> Interactivity Rationale </cite> by Edward Conte.</p>
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+**HTML Elements:**
+1. <!DOCTYPE html>
+2. <html>
+3. <head>
+4. <link>
+5. <meta>
+6. <title>
+7. <body>
+8. <header>
+9. <div>
+10. <figure>
+11. <img>
+12. <h6>
+13. <button>
+14. <nav>
+15. <ul>
+16. <li>
+17. <a>
+18. <h1>
+19. <aside>
+20. <h4>
+21. <p>
+22. <main>
+23. <h2>
+24. <footer>
+25. <cite>
+26. <script>
+27. <aside>
+28. <h3>
+29. <picture>
+30. <h5>
+31. <i>
+
+
+**CSS Classes:**
+1. .container
+2. .flex-container
+3. .flex-child
+4. .title-citation
+5. .citation
+6. .pagetitle
+7. .navbar
+8. .navbar li
+9. .navbar a
+10. .navbar a:hover
+11. .subscribe
+12. .subscribe:hover
+13. .newsletter-citation
+14. .close
+15. .close:hover, .close:focus
+16. .page
+17. .main
+18. .aside
+19. #faq p
+20. #faq li
+21. .e-board-page main
+22. .chief-editors
+23. .chief-editors-content
+24. .chief-editor-desc
+25. .chief-editor-desc h4
+26. .chief-editor-desc p
+27. .e-board-page main img
+28. .members-content-row
+29. .member-description
+30. .members ul
+31. .member-name
+32. .left-arrow-button
+33. .right-arrow-button
+34. .qr-code
+35. .twitter-button
+36. .facebook-button
+37. .mail-button
+38. .navmenu
+39. .navmenu *
+40. #burger img
+41. .hidden
+42. .hidden *
+
+
+**Events:**
+- Clickable Elements:
+  - subscribe button
+  - mail button
+  - facebook button
+  - twitter button
+- Hover Effect
+  - navigation bar
+- Responsive Design Adjustments
+  - Below 900 pixels, content becomes stacked
+  - Below 900 pixels, aside becomes stacked
+  - Below 900 pixels, hamburger menu appears
+- JavaScript Interactions:
+  - Modal for QR Code
+  - Carrousel (changes images alone)
+  - Hamburger Menu
+
+
+**Pseudocode:**
+**Navigation:**
+Function hide_nav:
+    If window's width is less than or equal to 900:
+        Add "hidden" to #navbar
+    Else:
+        Remove "hidden" from #navbar
+        Add #navmenu to #navbar
+
+When #burger is clicked:
+    If #navbar has "hidden":
+        Remove "hidden" from #navbar
+        Add #navmenu to #navbar
+    Else:
+        Add "hidden" to #navbar
+
+**Carrousel:**
+Set an interval that repeats every 7000 milliseconds:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+When #left-arrow-button is clicked:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+When #right-arrow-button is clicked:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+**Subscribe Button:**
+When #subscribe is clicked:
+    Set href to 'https://cornell.us15.list-manage.com/subscribe?id=63fa7e7323&u=95184ae5551472d32c2d92686'
+
+**Modal:**
+When #qr is clicked:
+    Remove "hidden" from #qrmodal
+
+When #close is clicked:
+    Add "hidden" to element with #qrmodal
+
+
+**Initial State:**
+- Wide Navigation Bar present
+  - hamburger menu is hidden
+- Aside next to the main content
+- Carrousel
+  - One image showing up
+
+<p><cite> Interactivity Plan </cite> by Ingrid Gruener.</p>
 
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+The completed site was shown to the client, and they were asked to check through the site, review the site's text sections, images, and sections. Once the client skimmed the pages and interacted with the javascript interactivity on their own pace, a teammember walked the client through the the site and reviewed each page with them. The client was impressed with the professionalism of each page and the cohesiveness of the site with their vision and intentions for the site. The team member reviewed the interactivity of the site with the client and explained how each interaction related to the goals of the audience discovered through user interviews. The client agreed with the goals and was particularly excited about the implementation of elements that encourage users to interact with members of the IRT team and potentially join the club.
 
-TODO: meeting minutes
+Minutes:
+- the review with the client lasted approximatly 7 minutes
+- the client was impressed with how we implemented interactivity for the goals
+- the client agreed with the audience's goals
+
+<p><cite> Client Feedback & Minutes </cite> by Eddie Conte.</p>
 
 
 ## User Testing (Final Submission)
