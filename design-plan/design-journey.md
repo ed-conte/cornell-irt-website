@@ -827,8 +827,6 @@ Explanation: The idea behind the about page sketch was to provide the necessary 
 
 ![Newsletter page design](design-plan/../exploratory-narrow-newsletter.jpg)
 
-Explanation: The newsletter page opens with the navigation menu at the top of the screen, making it easily accessible. The content that follows is stacked to optimize the screen space and allow for easy use. At the end of the screen, users can find the footer with the same content across all pages; the content repetition in the footer is a common practice, allowing users to find the most vital information on any page they find themselves on.
-
 **Wide Design:**
 ![Home page design](design-plan/../exploratory-wide-home.jpg)
 
@@ -843,8 +841,6 @@ Explanation: The about page features a similar format as the home page. That is 
 Explanation: The newsletter page opens with a horizontal navigation menu at the top of the screen, making it easily accessible. The content below that is arranged in a Z-pattern; thus, the images are placed beside the content that corresponds to them. The Z-pattern was implemented because it was proposed by one of the individuals who were interviewed. At the end of the screen, users can find the footer with the same content across all pages; the content repetition in the footer is a common practice.
 
 ![Newsletter page design](design-plan/../exploratory-wide-newsletter-2.jpg)
-
-Explanation: This sketch is a continuation of the last newsletter design. Here  it is evident that the Z-pattern continues until the bottom of the page. At the end of the screen, the footer has content that users can interact with; specifically, the footer makes it easy for users to find IRT's social media platforms and contact information (in case they have any questions that have not been answered through the website).
 
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
