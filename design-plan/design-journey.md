@@ -851,6 +851,14 @@ Explanation: The newsletter page opens with a horizontal navigation menu at the 
 
 Explanation: This is a continuation of the newsletter sketch. As you can see  the Z-pattern continues throughout the page. At the end, the footer is visible; the user is able to interact with the icons within the footer. The interaction allows for the user to access IRT's social media platforms or contact the E-board (if they have unanswered questions).
 
+![E-board page design](design-plan/../exploratory-wide-e-board-1.jpg)
+
+Explanation: The sketch was implemented to make it clear as to how users should interact with the carrousel. It is imperative for this to be known in order for all the content to be accessed. The carrousel is an interactive component used across most websites to make the most of the screen space.
+
+![E-board page design](design-plan/../exploratory-wide-e-board-2.jpg)
+
+Explanation: This sketch outlines the look and feel of the QR code modal. This modal was implemented in order to allow for users to expand the QR code to easily scan it and apply for an E-board position. Using modals for important content is a common practice. 
+
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
 
