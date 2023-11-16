@@ -784,11 +784,20 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 **Narrow Design:**
-TODO: layout exploration sketches + explanation
+![Home page design](design-plan/../exploratory-narrow-home.jpg)
 
+![About page design](design-plan/../exploratory-narrow-about.jpg)
+
+![Newsletter page design](design-plan/../exploratory-narrow-newsletter.jpg)
 
 **Wide Design:**
-TODO: layout exploration sketches + explanation
+![Home page design](design-plan/../exploratory-wide-home.jpg)
+
+![About page design](design-plan/../exploratory-wide-about.jpg)
+
+![Newsletter page design](design-plan/../exploratory-wide-newsletter-1.jpg)
+
+![Newsletter page design](design-plan/../exploratory-wide-newsletter-2.jpg)
 
 
 ### Final Design (Milestone 2)
