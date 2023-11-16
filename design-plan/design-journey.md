@@ -834,7 +834,164 @@ A large QR-code image will be placed on the e-board page, prompting users to cli
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+**HTML Elements:**
+1. <!DOCTYPE html>
+2. <html>
+3. <head>
+4. <link>
+5. <meta>
+6. <title>
+7. <body>
+8. <header>
+9. <div>
+10. <figure>
+11. <img>
+12. <h6>
+13. <button>
+14. <nav>
+15. <ul>
+16. <li>
+17. <a>
+18. <h1>
+19. <aside>
+20. <h4>
+21. <p>
+22. <main>
+23. <h2>
+24. <footer>
+25. <cite>
+26. <script>
+27. <aside>
+28. <h3>
+29. <picture>
+30. <h5>
+31. <i>
+
+
+**CSS Classes:**
+1. .container
+2. .flex-container
+3. .flex-child
+4. .title-citation
+5. .citation
+6. .pagetitle
+7. .navbar
+8. .navbar li
+9. .navbar a
+10. .navbar a:hover
+11. .subscribe
+12. .subscribe:hover
+13. .newsletter-citation
+14. .close
+15. .close:hover, .close:focus
+16. .page
+17. .main
+18. .aside
+19. #faq p
+20. #faq li
+21. .e-board-page main
+22. .chief-editors
+23. .chief-editors-content
+24. .chief-editor-desc
+25. .chief-editor-desc h4
+26. .chief-editor-desc p
+27. .e-board-page main img
+28. .members-content-row
+29. .member-description
+30. .members ul
+31. .member-name
+32. .left-arrow-button
+33. .right-arrow-button
+34. .qr-code
+35. .twitter-button
+36. .facebook-button
+37. .mail-button
+38. .navmenu
+39. .navmenu *
+40. #burger img
+41. .hidden
+42. .hidden *
+
+
+**Events:**
+- Clickable Elements:
+  - subscribe button
+  - mail button
+  - facebook button
+  - twitter button
+- Hover Effect
+  - navigation bar
+- Responsive Design Adjustments
+  - Below 900 pixels, content becomes stacked
+  - Below 900 pixels, aside becomes stacked
+  - Below 900 pixels, hamburger menu appears
+- JavaScript Interactions:
+  - Modal for QR Code
+  - Carrousel (changes images alone)
+  - Hamburger Menu
+
+
+**Pseudocode:**
+**Navigation:**
+Function hide_nav:
+    If window's width is less than or equal to 900:
+        Add "hidden" to #navbar
+    Else:
+        Remove "hidden" from #navbar
+        Add #navmenu to #navbar
+
+When #burger is clicked:
+    If #navbar has "hidden":
+        Remove "hidden" from #navbar
+        Add #navmenu to #navbar
+    Else:
+        Add "hidden" to #navbar
+
+**Carrousel:**
+Set an interval that repeats every 7000 milliseconds:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+When #left-arrow-button is clicked:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+When #right-arrow-button is clicked:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+**Subscribe Button:**
+When #subscribe is clicked:
+    Set href to 'https://cornell.us15.list-manage.com/subscribe?id=63fa7e7323&u=95184ae5551472d32c2d92686'
+
+**Modal:**
+When #qr is clicked:
+    Remove "hidden" from #qrmodal
+
+When #close is clicked:
+    Add "hidden" to element with #qrmodal
+
+
+**Initial State:**
+- Wide Navigation Bar present
+  - hamburger menu is hidden
+- Aside next to the main content
+- Carrousel
+  - One image showing up
+
+<p><cite> Interactivity Plan </cite> by Ingrid Gruener.</p>
 
 
 ## Client Feedback & Minutes (Milestone 2)
