@@ -1035,6 +1035,8 @@ TODO: client feedback
 
 TODO: meeting minutes
 
+<p><cite> Client Feedback & Minutes </cite> by Eddie Conte.</p>
+
 
 ## User Testing (Final Submission)
 
