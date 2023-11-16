@@ -285,6 +285,7 @@ aside {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
 }
 
 .members ul {
@@ -427,6 +428,14 @@ footer p {
     #img6 {
         order: ;
     }
+
+    /* ---- e-board styling in narrow---- */
+    .members-content-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
 }
 
 /* Keep these last so they do not conflict with anything */
