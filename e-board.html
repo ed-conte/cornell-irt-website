@@ -167,12 +167,15 @@
                 <h2>E-Board Application</h2>
                 <picutre>
                     <!-- Source: Provided by Cornell IRT -->
-                    <img src="images/qr-code.png" alt="Headshot of Joel Pang">
+                    <img id="qr" src="images/qr-code.png" alt="qr code">
                 </picture>
-
-            <cite class="citation">
-                Source: <cite><a href="https://www.qr-code-generator.com/">In Real Terms QR Code</a></cite>
-            </cite>
+                <div id="qrmodal" class="hidden">
+                    <span class="close">&times;</span>
+                    <img id="qr-in-modal" src="images/qr-code.png" alt="qrmodal">
+                </div>
+                <cite class="citation">
+                    Source: <cite><a href="https://www.qr-code-generator.com/">In Real Terms QR Code</a></cite>
+                </cite>
             </section>
         </main>
     </div>
@@ -196,6 +199,7 @@
     <script src="scripts/jquery-3.7.1.js"></script>
     <script src="scripts/burgermenu.js"></script>
     <script src="scripts/chief-editor-carousel.js"></script>
+    <script src="scripts/qr.js"></script>
 </body>
 
 </html>

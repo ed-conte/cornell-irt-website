@@ -358,13 +358,88 @@ None.
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
+- Sophomore at Cornell
+  - Information science major
+    - Intends to go into tech policy and eventually study law
 
-TODO: add additional interviewees as needed
+2. Recall the last time you visited an organization’s website. What on
+   2a. that site stood out to you? What did you like about it? What didn’t you like?
+
+- Visited the Oar Tompkins County website
+  - Information was insightful
+  - The website was well-constructed
+  - Professional
+  - Cohesive design
+  - Not formatted well
+  - Information was not easily found
+  - Required searching to find basic information
+
+3. Walk me through your process of examining the last organization's website you visited.
+  3a. Describe the navigation process. Which pages did you visit first?
+
+- Entered the site via the homepage
+  - Scrolled through the homepage, looking for information
+  - Went to the services page
+  - Then, the housing page
+
+4. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
+
+- Yes
+  - What they look for
+    - Club values
+    - Organization purpose
+    - Recruitment process
+    - Club members
+    - What does the organization do?
+
+5. Is there any information that you feel is often missing or underrepresented by your sources?
+
+- No
+
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were the challenges or difficulties you faced?
+
+- Many of the Cornell clubs do not have their own websites and instead have a page on one of the cub platforms
+- makes it extremely difficult to find information about them.
+
+7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
+
+- Wanted to join one of the competitive clubs
+  - Interviewed with them but got cut
+- Other more important commitments
+
+8. What is your relationship with IRT?
+
+- Is a writer for IRT
+
+9. How did you learn of IRT?
+
+- Friends with a writer and the club president
+
+10. What were your intentions when you initially sought to learn more about IRT?
+
+- Wanted to join IRT for a while
+  - Aligns with major and goals for career
+  - Did not get to join until recruitment began
+
+11.  What would you be most interested in knowing about IRT?
+
+- As a writer
+  - Don’t know how topics are picked to be written about
+  - Would like to know how these topics are picked
+
+12.  What do you consider the most valuable resources offered by IRT?
+
+- The website is extremely important
+  - The way users can sign up to the newsletter
+  - This drives the club and keeps it going
+
+13. What haven't I asked you today that you think would be valuable for me to know?
+- nothing
+
+<p><cite>interview 3</cite> by Edward Conte</p>
 
 
 **Interviewee 4:**
@@ -461,11 +536,12 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <https://www.cornelluxdesign.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Narrow Screenshot of CUxD homepage](design-plan/../example-site-1-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Wide Screenshot of CUxD homepage](design-plan/../example-site-1-wide.png)
+
 
 2. <https://cornellsun.com/>
 
@@ -484,7 +560,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+This website follows common design patterns while adding unique elements to improve the site's visual aesthetic. The colors of the site are cohesive and indicative of the site’s primary audience and topic.  A navigation bar exists on all pages within the site: about, team, and contact. When a device is displaying the site in a wide browser window, these pages are displayed to the right of the site logo within the header. If the browser is resized to examine the narrow layout, the navigation bar is hidden, and instead, the user is prompted to click a hamburger menu, which expands to fill the entire window. The content on this site is divided into four pages, each featuring images within shapes alongside informative text. The homepage consists of the club's mission and quick information about what they do. The text is short and concise, a common trend within this site. A team page lists the members of the club e-board, informative and important for new members. The contact page primarily consists of a contact form that site users may fill out. His contact form is prevalent throughout the site, with a link at the bottom of each page.
 
 <p><cite> Example Website 1 Review </cite> by Edward Conte.</p>
 
@@ -549,7 +625,7 @@ Plan your site's content.
 - Link: Twitter
 - Link: Facebook
 
-<p><cite> Your Site's Planned Content </cite> by Ingrid Gruener.</p>
+<p><cite> Your Site's Planned Content </cite> by Ingrid Gruener and Edward Conte</p>
 
 
 ### Content Justification (Milestone 2)
@@ -607,7 +683,6 @@ Specifically, this card-sorting iteration addresses the specific needs and goals
 - Page 3: Newsletter
 - Page 4: E-Board
 
-
 > Explain why the names of these pages make sense for your site's audience.
 
 The names of the pages for the IRT website are tailored to the interests and needs of the target audience. To begin, the ‘Home’ page allows for an intuitive user experience. That is because the home page is a page that is customarily used, and labeled, across the majority of websites on the internet. Specifically, like most home pages, the one on this website will provide an overview of what to expect as users navigate through the website. On the home page, users are also able to find contact information and more content that allows them to engage with IRT’s offerings. Thus, after looking through the home page, the users will be able to know where to navigate to find more detailed information, aligning with the goals of providing comprehensive club information and facilitating engagement.
@@ -624,7 +699,33 @@ The final page is labeled ‘E-Board’. This name is relevant because Cornell s
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
+Theme 1
+
+- Typography: Clean, modern sans-serif fonts (Helvetica or Arial) for body text, with bold, striking serif fonts for headlines to combine readability with academics
+- Imagery: economic symbols, Cornell campus, and journalistic elements, alongside infographics explaining economic concepts.
+- Shape: Geometric shapes with sharp edges to convey precision and clarity
+- Color: Predominantly grey and white background with red accents for emphasis and to maintain brand consistency.
+- Why it fits: This theme resonates with the academically driven and intellectually curious nature of Cornell students, presenting content in a clean, sophisticated manner that stimulates intellectual engagement.
+
+Theme 2:
+
+- Typography: A combination of a modern serif font for headings (Times New Roman) sans-serif for body text (Roboto)
+- Imagery: Images reflecting club writing and members
+- Shape: Rounded shapes and fluid lines
+- Color: A balanced mix of red, grey, and white, using gradients to add depth and modernity.
+- Why it fits: This theme appeals to students’ desire for current, relevant content, reflecting their interest in both consuming and producing diverse economic knowledge, and fosters a sense of community and engagement.
+
+Theme 3:
+
+- Typography: Traditional serif fonts for body text (Garamond), classic sans-serif fonts for headlines (Futura), reflecting time-honored academic aesthetic
+- Imagery: Classic imagery of Cornell, irt members and relevant images to writing topics
+- Shape: rectangles and squares with clean lines, suggesting structure
+- Color: A dominant grey and white palette with red used sparingly for important highlights and features.
+- Why it fits: This theme aligns with the audience’s academic environment and intellectual curiosity, offering a traditional, scholarly backdrop that complements their study of economics.
+
+Final Theme: Theme 3
+Rationale:
+	Theme 3 is an ideal fit for the site's audience because it combines a clean and contemporary design with academic seriousness. This is intended to mirror the intellectually curious and academically driven nature of Cornell students as well as incorporating elements of the previous In Real Terms website into the design. Its use of modern typography and high-resolution imagery aligns with the student's interest in current economic issues and other journalistic sources, producing a sense of cohesiveness and familiarity. Furthermore, the theme's use of geometric shapes and the club's red, grey, and white colors create a visually appealing and brand-cohesive interface that resonates with a young, informed audience eager to explore economics through reading and writing.
 
 <p><cite> Visual Theme </cite> by Edward Conte.</p>
 
