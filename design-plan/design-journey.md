@@ -444,13 +444,46 @@ None.
 
 **Interviewee 4:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+- I am a current Junior studying Business Administration with a concentration in Economics.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+2. Recall the last time you visited an organization’s website. What on that site stood out to you? - What did you like about it? What didn’t you like?
+- The last time I visited someone's website was probably a few weeks ago when I saw a flyer up in the hallway and I wanted to know more about the organization, but I don’t remember which organization it was for. The images and very detailed graphics the organization decided to include stood out to me, and the front page included very helpful information. I didn’t like the transition the website had, like certain images would load into the page weirdly and it took a long time to show or would only show when I scrolled to a certain part. I did like how neat the website was, how helpful the information on the front page was; I enjoy when websites have easy navigators.
 
+3. Walk me through your process of examining the last organization website you visited. Describe the navigation process. Which pages did you visit first?
+- I clicked on the link, scrolled through the front page, went to the navigator, looked at the about page, specifically the contact us portion, went to the alumni section, and then went back to home.
 
-TODO: add additional interviewees as needed
+4. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
+- If I have an interest in joining a club or organization, I tend to mostly seek out information pertaining to requirements and time commitment. I would ask if the person is there or I would visit their page online and go to contact and click on whoever would be in the role to answer questions about the org.
+
+5. Is there any information that you feel is often missing or underrepresented by your sources?
+- Not really.
+
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were these challenges or difficulties you faced?
+- One time I was not able to find where the club was meeting because they had the wrong location and that made it really hard for me to find them on campus to meet. Even the emails they would send had the wrong location.
+
+7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
+- Time commitment is a big factor that keeps me away from joining particular clubs, or if it's hard to find information about the club I probably will not join.
+
+8. What is your relationship with IRT?
+- IRT is a website I look out every so often to see what is going on because of my major. It is not my main source of news but I do find my self scrolling on it to find some stuff that is going on.
+
+9. How did you learn of IRT?
+- I learned about IRT through a friend who is also interested in checking out the website for interesting articles.
+
+10. What were your intentions when you originally sought to learn more about IRT?
+- I wanted to know what was IRT about. It seemed really interesting to me the way a friend explained what it was so I wanted to experience this for myself.
+
+11. What would you be most interested in knowing about IRT?
+- I would be interested to know more about what goes into their process of article topics and what goes into being a part of IRT in general.
+
+12. What do you consider the most valuable resources offered by IRT?
+- I think the most valuable resources are their articles because those seem to be what has attracted me and my friends to IRT overall.
+
+13. What haven't I asked you today that you think would be valuable for me to know?
+- Nothing.
+
+<p><cite>Interview 4</cite> by Autumn Kretzschmar.</p>
 
 
 ### Goals (Milestone 2)
@@ -799,6 +832,8 @@ Document your site's layout.
 
 ![Newsletter page design](design-plan/../exploratory-wide-newsletter-2.jpg)
 
+<p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
+
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -823,7 +858,7 @@ TODO: wide sketches and explanation
 
 The website's content is organized into clearly labeled pages: Home, E-board, About, and Newsletter. This structure was chosen as it directly caters to the primary interests of the audience. By segmenting content into these categories, the site permits students to quickly find information relevant to their goals, promoting efficient and targeted browsing. The navigation is designed to be concise and user-friendly, employing a top navigation bar that remains consistent across all pages. This design pattern is familiar to most users, reducing the learning curve and user experience. Such ease of navigation is crucial for students who are often time-constrained and seeking quick information about the club. Additionally, the use of an aside is popular among websites to display brief information to the users. without requiring them to scour the website for it. The layout is clean and minimalistic, with a focus on readability and ease of use, reflecting the theme of the club. This design choice was intended to appeal to the audience's intellectual curiosity, presenting content in an uncluttered, focused manner. Moreover, the use of the club's colors (red, grey, and white) in the design maintains brand consistency and creates a visually appealing aesthetic that remains cohesive with the club's existing identity. Familiar design patterns have been employed, such as a prominently displayed header containing the page title and navigation bar, a footer with additional links and information, and an aside with frequently asked questions. By using these patterns, the website offers a sense of familiarity, making it easier for users to navigate and interact with the site. Using visual cues like icons for different sections and buttons, such as the hamburger menu, also helps make the site more intuitive and user-friendly.
 
-<p><cite> Visual Theme </cite> by Edward Conte.</p>
+<p><cite> Design Rationale </cite> by Edward Conte.</p>
 
 
 ## Interactivity Rationale (Milestone 2)
@@ -836,23 +871,185 @@ On the newsletter page, which presents an example of the club’s articles, an i
 Throughout the website, the footer will contain icons leading to the club’s Facebook, Twitter, and Gmail. Users will be able to interact with these buttons to engage with IRT club members on said platforms, enhancing club outreach and engagement with the club. This will benefit the audience by bringing them closer to their goals and the club by bringing attention to their other platforms and facilitating communication with potential members.
 A large QR-code image will be placed on the e-board page, prompting users to click it based on visual cues (curser pointer changing). When this button is clicked, the QR code will enlarge, permitting users to scan the code with another device or scanning program. When the code is scanned, users will be led to the IRT e-board application. Implementing this interactivity provides users with additional information regarding the application process, promotes interaction with IRT, and enhances user experience and accessibility on the website.
 
-<p><cite> Visual Theme </cite> by Edward Conte.</p>
+<p><cite> Interactivity Rationale </cite> by Edward Conte.</p>
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+**HTML Elements:**
+1. <!DOCTYPE html>
+2. <html>
+3. <head>
+4. <link>
+5. <meta>
+6. <title>
+7. <body>
+8. <header>
+9. <div>
+10. <figure>
+11. <img>
+12. <h6>
+13. <button>
+14. <nav>
+15. <ul>
+16. <li>
+17. <a>
+18. <h1>
+19. <aside>
+20. <h4>
+21. <p>
+22. <main>
+23. <h2>
+24. <footer>
+25. <cite>
+26. <script>
+27. <aside>
+28. <h3>
+29. <picture>
+30. <h5>
+31. <i>
+
+
+**CSS Classes:**
+1. .container
+2. .flex-container
+3. .flex-child
+4. .title-citation
+5. .citation
+6. .pagetitle
+7. .navbar
+8. .navbar li
+9. .navbar a
+10. .navbar a:hover
+11. .subscribe
+12. .subscribe:hover
+13. .newsletter-citation
+14. .close
+15. .close:hover, .close:focus
+16. .page
+17. .main
+18. .aside
+19. #faq p
+20. #faq li
+21. .e-board-page main
+22. .chief-editors
+23. .chief-editors-content
+24. .chief-editor-desc
+25. .chief-editor-desc h4
+26. .chief-editor-desc p
+27. .e-board-page main img
+28. .members-content-row
+29. .member-description
+30. .members ul
+31. .member-name
+32. .left-arrow-button
+33. .right-arrow-button
+34. .qr-code
+35. .twitter-button
+36. .facebook-button
+37. .mail-button
+38. .navmenu
+39. .navmenu *
+40. #burger img
+41. .hidden
+42. .hidden *
+
+
+**Events:**
+- Clickable Elements:
+  - subscribe button
+  - mail button
+  - facebook button
+  - twitter button
+- Hover Effect
+  - navigation bar
+- Responsive Design Adjustments
+  - Below 900 pixels, content becomes stacked
+  - Below 900 pixels, aside becomes stacked
+  - Below 900 pixels, hamburger menu appears
+- JavaScript Interactions:
+  - Modal for QR Code
+  - Carrousel (changes images alone)
+  - Hamburger Menu
+
+
+**Pseudocode:**
+**Navigation:**
+Function hide_nav:
+    If window's width is less than or equal to 900:
+        Add "hidden" to #navbar
+    Else:
+        Remove "hidden" from #navbar
+        Add #navmenu to #navbar
+
+When #burger is clicked:
+    If #navbar has "hidden":
+        Remove "hidden" from #navbar
+        Add #navmenu to #navbar
+    Else:
+        Add "hidden" to #navbar
+
+**Carrousel:**
+Set an interval that repeats every 7000 milliseconds:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+When #left-arrow-button is clicked:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+When #right-arrow-button is clicked:
+    If #joel-pang has "hidden":
+        Remove "hidden" from #joel-pang
+        Add "hidden" to #noah-cordon-siskind
+    Else:
+        Add "hidden" to #joel-pang
+        Remove "hidden" from #noah-cordon-siskind
+
+**Subscribe Button:**
+When #subscribe is clicked:
+    Set href to 'https://cornell.us15.list-manage.com/subscribe?id=63fa7e7323&u=95184ae5551472d32c2d92686'
+
+**Modal:**
+When #qr is clicked:
+    Remove "hidden" from #qrmodal
+
+When #close is clicked:
+    Add "hidden" to element with #qrmodal
+
+
+**Initial State:**
+- Wide Navigation Bar present
+  - hamburger menu is hidden
+- Aside next to the main content
+- Carrousel
+  - One image showing up
+
+<p><cite> Interactivity Plan </cite> by Ingrid Gruener.</p>
 
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+The completed site was shown to the client, and they were asked to check through the site, review the site's text sections, images, and sections. Once the client skimmed the pages and interacted with the javascript interactivity on their own pace, a teammember walked the client through the the site and reviewed each page with them. The client was impressed with the professionalism of each page and the cohesiveness of the site with their vision and intentions for the site. The team member reviewed the interactivity of the site with the client and explained how each interaction related to the goals of the audience discovered through user interviews. The client agreed with the goals and was particularly excited about the implementation of elements that encourage users to interact with members of the IRT team and potentially join the club.
 
-TODO: meeting minutes
+Minutes:
+- the review with the client lasted approximatly 7 minutes
+- the client was impressed with how we implemented interactivity for the goals
+- the client agreed with the audience's goals
+
+<p><cite> Client Feedback & Minutes </cite> by Eddie Conte.</p>
 
 
 ## User Testing (Final Submission)
