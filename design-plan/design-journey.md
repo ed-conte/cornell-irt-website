@@ -518,7 +518,7 @@ TODO: add additional interviewees as needed
 
 - Cohesive: Cornell students who are interested in exploring the field of economics by engaging in reading and/or writing form a cohesive group for numerous reasons. To begin, the target audience members have a common interest in economics, which is a broad yet specific field of study. Thus, this shared interest creates a natural basis for the content that is relevant to the website. Nonetheless, since the specific group of students that were selected were those that attend Cornell University, it is likely that the audience members are academically driven and intellectually curious. This trait builds on the cohesive nature of the audience members as the website aims to offer thought-provoking content in the field of economics. Not to mention, the fact that the audience members are all part of the Cornell community makes it easier to tailor content that is relevant to their academic and social setting, such as economics-related global issues that are impacting the Cornell community. That being said, the fact that the audience group includes those who are both interested in reading and writing allows for the website to value diversity of contribution. The audience’s focus on diverse learning methods, in turn, caters to those who value a different style of engaging in economics-related content whether that be through consuming knowledge or producing it. Similarly, the emphasis on reading and writing aligns with individuals who are interested in developing their comprehension, analysis, and communication skills, which are some of the most fundamental skills in a field like economics.
 
-<p><cite>Audience</cite> by Ingrid Gruener.</p>
+<p><cite>Audience</cite> by Ingrid Gruener and Edward Conte</p>
 
 
 ## Website Design Exploration (Milestone 2)
@@ -773,7 +773,7 @@ Document your site's layout.
   - Rationale: On smaller screens, details in images can be hard to discern. A modal that enlarges the image of Powell will help users quickly identify the subject matter of the article.
   - Did not implement: Similar to the modal above, the website designers chose not to add this modal because the article’s title, summary, and small image are clear enough to let the readers know that the article is about Powell’s economic impact; hence, the modal does not add significant value, and instead just serves as a distraction from the important content: the newsletter.
 
-<p><cite> Interactivity Brainstorm </cite> by Ingrid Gruener.</p>
+<p><cite> Interactivity Brainstorm </cite> by Ingrid Gruener and Edward Conte</p>
 
 
 ### Layout Exploration (Milestone 2)
@@ -812,15 +812,22 @@ TODO: wide sketches and explanation
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+The website's content is organized into clearly labeled pages: Home, E-board, About, and Newsletter. This structure was chosen as it directly caters to the primary interests of the audience. By segmenting content into these categories, the site permits students to quickly find information relevant to their goals, promoting efficient and targeted browsing. The navigation is designed to be concise and user-friendly, employing a top navigation bar that remains consistent across all pages. This design pattern is familiar to most users, reducing the learning curve and user experience. Such ease of navigation is crucial for students who are often time-constrained and seeking quick information about the club. Additionally, the use of an aside is popular among websites to display brief information to the users. without requiring them to scour the website for it. The layout is clean and minimalistic, with a focus on readability and ease of use, reflecting the theme of the club. This design choice was intended to appeal to the audience's intellectual curiosity, presenting content in an uncluttered, focused manner. Moreover, the use of the club's colors (red, grey, and white) in the design maintains brand consistency and creates a visually appealing aesthetic that remains cohesive with the club's existing identity. Familiar design patterns have been employed, such as a prominently displayed header containing the page title and navigation bar, a footer with additional links and information, and an aside with frequently asked questions. By using these patterns, the website offers a sense of familiarity, making it easier for users to navigate and interact with the site. Using visual cues like icons for different sections and buttons, such as the hamburger menu, also helps make the site more intuitive and user-friendly.
+
+<p><cite> Visual Theme </cite> by Edward Conte.</p>
 
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+When the user is reading the website on a small screen, the hamburger menu icon will appear, prompting the user to press it for the navigation menu. Implementing a hamburger menu will improve information accessibility by optimizing the limited screen space of the narrow layout. This facilitates visitors' traversal of the website and improves the usability of this website regardless of the device they are searching on. This Interaction fulfills a key audience goal: for the website to have straightforward navigation and a user-friendly design.
+An image carousel will be implemented, allowing the user to view images of the co-presidents of the club and their contact information on the E-board page. Under their information, users can also cycle through short snippets from the presidents. The navigation of the carousel will be familiar to users through interactive arrow buttons, which clearly communicate their purpose. The interactive image carousel will advance users toward their goal of getting to know the club e-board through its presentation of their photos and writing.
+On the newsletter page, which presents an example of the club’s articles, an interactive button will lead users to a separate page where they are encouraged to fill out their information to sign up for the club email newsletter. This fulfills a major audience goal of locating how to engage with the club through the newsletter subscription.
+Throughout the website, the footer will contain icons leading to the club’s Facebook, Twitter, and Gmail. Users will be able to interact with these buttons to engage with IRT club members on said platforms, enhancing club outreach and engagement with the club. This will benefit the audience by bringing them closer to their goals and the club by bringing attention to their other platforms and facilitating communication with potential members.
+A large QR-code image will be placed on the e-board page, prompting users to click it based on visual cues (curser pointer changing). When this button is clicked, the QR code will enlarge, permitting users to scan the code with another device or scanning program. When the code is scanned, users will be led to the IRT e-board application. Implementing this interactivity provides users with additional information regarding the application process, promotes interaction with IRT, and enhances user experience and accessibility on the website.
 
+<p><cite> Visual Theme </cite> by Edward Conte.</p>
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
