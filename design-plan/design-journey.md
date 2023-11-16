@@ -444,13 +444,46 @@ None.
 
 **Interviewee 4:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+- I am a current Junior studying Business Administration with a concentration in Economics.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+2. Recall the last time you visited an organization’s website. What on that site stood out to you? - What did you like about it? What didn’t you like?
+- The last time I visited someone's website was probably a few weeks ago when I saw a flyer up in the hallway and I wanted to know more about the organization, but I don’t remember which organization it was for. The images and very detailed graphics the organization decided to include stood out to me, and the front page included very helpful information. I didn’t like the transition the website had, like certain images would load into the page weirdly and it took a long time to show or would only show when I scrolled to a certain part. I did like how neat the website was, how helpful the information on the front page was; I enjoy when websites have easy navigators.
 
+3. Walk me through your process of examining the last organization website you visited. Describe the navigation process. Which pages did you visit first?
+- I clicked on the link, scrolled through the front page, went to the navigator, looked at the about page, specifically the contact us portion, went to the alumni section, and then went back to home.
 
-TODO: add additional interviewees as needed
+4. When looking to join a new campus club or organization, do you seek out information about the organization before applying? If yes, what information were you specifically looking for? How did you access that information?
+- If I have an interest in joining a club or organization, I tend to mostly seek out information pertaining to requirements and time commitment. I would ask if the person is there or I would visit their page online and go to contact and click on whoever would be in the role to answer questions about the org.
+
+5. Is there any information that you feel is often missing or underrepresented by your sources?
+- Not really.
+
+6. Can you recall a time when you faced challenges or difficulties when trying to find information about a Cornell club? What were these challenges or difficulties you faced?
+- One time I was not able to find where the club was meeting because they had the wrong location and that made it really hard for me to find them on campus to meet. Even the emails they would send had the wrong location.
+
+7. Recall a Cornell club you wanted to be a part of but did not end up joining. What factors kept you from participating?
+- Time commitment is a big factor that keeps me away from joining particular clubs, or if it's hard to find information about the club I probably will not join.
+
+8. What is your relationship with IRT?
+- IRT is a website I look out every so often to see what is going on because of my major. It is not my main source of news but I do find my self scrolling on it to find some stuff that is going on.
+
+9. How did you learn of IRT?
+- I learned about IRT through a friend who is also interested in checking out the website for interesting articles.
+
+10. What were your intentions when you originally sought to learn more about IRT?
+- I wanted to know what was IRT about. It seemed really interesting to me the way a friend explained what it was so I wanted to experience this for myself.
+
+11. What would you be most interested in knowing about IRT?
+- I would be interested to know more about what goes into their process of article topics and what goes into being a part of IRT in general.
+
+12. What do you consider the most valuable resources offered by IRT?
+- I think the most valuable resources are their articles because those seem to be what has attracted me and my friends to IRT overall.
+
+13. What haven't I asked you today that you think would be valuable for me to know?
+- Nothing.
+
+<p><cite>Interview 4</cite> by Autumn Kretzschmar.</p>
 
 
 ### Goals (Milestone 2)
