@@ -823,6 +823,8 @@ TODO: layout exploration sketches + explanation
 **Wide Design:**
 TODO: layout exploration sketches + explanation
 
+<p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
+
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -1036,7 +1038,7 @@ The completed site was shown to the client, and they were asked to check through
 Minutes:
 - the review with the client lasted approximatly 7 minutes
 - the client was impressed with how we implemented interactivity for the goals
-- the client agreed with the audience's goals 
+- the client agreed with the audience's goals
 
 <p><cite> Client Feedback & Minutes </cite> by Eddie Conte.</p>
 
