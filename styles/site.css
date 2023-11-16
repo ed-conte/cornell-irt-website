@@ -227,6 +227,74 @@ aside {
     flex-direction:column;
 }
 
+
+/* ---- e-board page styling ---- */
+.e-board-page main {
+    display: flex;
+    flex-direction: column;
+}
+
+.chief-editors {
+    display: flex;
+    flex-direction:column;
+}
+
+.chief-editors-content {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
+
+.chief-editor-desc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chief-editor-desc h4 {
+    margin: 20px 20px 0 20px;
+}
+
+.chief-editor-desc p {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.e-board-page main img {
+    display: block;
+    width: 100%;
+    height: auto;
+    min-width: 200px;
+    max-width: 400px;
+    margin-left: 0px;
+    border-radius: 4px;
+}
+
+.members-content-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.member-description {
+    background-color: rgb(215, 215, 215);
+    padding: 10px;
+    margin: 6px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.members ul {
+    list-style-type: none;
+}
+
+.member-name {
+    font-weight: bold;
+}
+
 /* ---- footer ---- */
 
 footer {
