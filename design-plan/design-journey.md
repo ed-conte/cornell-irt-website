@@ -827,7 +827,12 @@ Explanation: The idea behind the about page sketch was to provide the necessary 
 
 ![Newsletter page design](design-plan/../exploratory-narrow-newsletter.jpg)
 
+Explanation: The idea behind the about page sketch was to provide the necessary information for visitors to get an idea of the past newsletters that IRT has published. Nonetheless, to make this content easily accessible on narrow screens, all the information is stacked (including the aside). This stacking is commonly done on websites to optimize the screen space. The navigation bar and footer are the same on all pages, as commonly practiced.
+
 ![E-Board page design](design-plan/../exploratory-narrow-eboard.jpg)
+
+Explanation: This sketch features the commonly seen stacked content for narrow screens. The content on this page presents users with the necessary information about E-board. Nonetheless, to optimize the screen space, a carrousel was implemented. To allow for users to easily apply for E-board positions, a modal was used for the QR code. The footer and navigation bar remains the same.
+
 
 **Wide Design:**
 ![Home page design](design-plan/../exploratory-wide-home.jpg)
@@ -844,9 +849,15 @@ Explanation: The newsletter page opens with a horizontal navigation menu at the 
 
 ![Newsletter page design](design-plan/../exploratory-wide-newsletter-2.jpg)
 
-![E-Board page design](design-plan/../exploratory-wide-eboard-1.jpg)
+Explanation: This is a continuation of the newsletter sketch. As you can see  the Z-pattern continues throughout the page. At the end, the footer is visible; the user is able to interact with the icons within the footer. The interaction allows for the user to access IRT's social media platforms or contact the E-board (if they have unanswered questions).
 
-![E-Board page design](design-plan/../exploratory-wide-eboard-2.jpg)
+![E-board page design](design-plan/../exploratory-wide-e-board-1.jpg)
+
+Explanation: The sketch was implemented to make it clear as to how users should interact with the carrousel. It is imperative for this to be known in order for all the content to be accessed. The carrousel is an interactive component used across most websites to make the most of the screen space.
+
+![E-board page design](design-plan/../exploratory-wide-e-board-2.jpg)
+
+Explanation: This sketch outlines the look and feel of the QR code modal. This modal was implemented in order to allow for users to expand the QR code to easily scan it and apply for an E-board position. Using modals for important content is a common practice. 
 
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
