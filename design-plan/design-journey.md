@@ -876,42 +876,42 @@ Explanation: The sketch shows the coding elements that were used for the narrow 
 
 ![About page design](design-plan/../final-narrow-about.jpg)
 
-Explanation: The same classes and elements were used to code the about opge for consistency.
+Explanation: The same classes and elements were used to code the about page for consistency. The narrow page features a stacked content layout to make the most of the screen space as a means of making the website easy to navigate. Thus, the content is organized in a hierarchical order wherein the most important content is placed toward the top (i.e., the club's mission) and the content gets less important as the page continues. The page closes with the same footer that is found on all the website's pages.
 
 ![Newsletter page design](design-plan/../final-narrow-newsletter.jpg)
 
-Explanation: The narrow newsletter page contains stacked content paired with the appropriate images. In order to accomplish this parent and child elements were used.
+Explanation: The narrow newsletter page contains stacked content paired with the appropriate images. Specifically, the text is followed by a visual element that summarizes what the paragraph discusses. In order to accomplish this parent and child elements were used. Near the top of the page, there is a subscribe button that allows users to easily subscribe to the newsletter if they seem to be interested in the content. Again, the footer and navigation bar are the same on all pages to make the website user-friendly and easy to navigate.
 
 ![E-Board page design](design-plan/../final-narrow-eboard.jpg)
 
-Explanation: The e-board page shows the necessary classes and id's for the carrousel menu and modal.
+Explanation: The e-board page contains all the information that is necessary for a user to understand how the club's e-board functions. Thus, the first piece of content is a carousel with images of the head e-board members, followed by a description of their personal experiences being part of the club. After the modal, there is a section of the page with the names, majors, and years of the other e-board members of the club. At the end of the page, users are given access to a QR code that leads to an external google forms with an E-board application; this QR code is coded in the form of a modal to make it easier for user to scan it. As previously stated, this page contains the same hamburger menu and footer as the other pages.
 
 
 **Wide Design:**
 
 ![Home page design](design-plan/../final-wide-home.jpg)
 
-Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
+Explanation: The wide design features the same content as the narrow design; nonetheless, this page is organized with the content side by side instead of on top of one another. Specifically, the page opens with a horizontal navigation bar (which is the same across all the wide screen pages). After the navigation bar, the user immediately sees the club's logo for branding reasons and clarity; in other words, this lets the website's visitor know that the website will cover information about IRT. The text content on this page provides user with a summary of the club, and more information that acts as an overview of what they can expect when navigating the website. The main content, mentioned previously, is placed beside a sidebar with frequently asked questions. Because this page contains the same content, the same classes and elements were used to code this page as the narrow version for consistency. At the end of the page, the user will see a footer with buttons that link to the club's social media platforms and contact information.
 
 ![About page design](design-plan/../final-wide-about.jpg)
 
-Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
+Explanation: Like the website's home page, the About Us page features a side-by side content organization wherein the main content is placed beside the side bar. The main content on this page provides an overview of the club's offerings and what the club stands for. On the other hand, the side bar gives users answers to questions they may have about the club. Nonetheless, since the same content is featured on the wide screen version, the same classes and elements were used to code this page as the narrow version for consistency. At the bottom of the page, the user is able to see the same footer, with the buttons, for consistency and easy navigation.
+
+![Newsletter page design](design-plan/../final-wide-newsletter-1.jpg)
+
+Explanation: As seen in the narrow screen version, the page opens with an sentence overview of the club's newsletter, followed by an image button that allows users to immediately subscribe to the newsletter. After the button, there is an example of one of the past newsletters, paired with images that complement its content. The content is organized in a Z-format, as suggested by one of the interviewees. At the top of the page, the user will find the navigation bar.
 
 ![Newsletter page design](design-plan/../final-wide-newsletter-2.jpg)
 
-Explanation: The same classes and elements were used to code this page  as the narrow version for consistency.
-
-![Newsletter page design](design-plan/../final-wide-newsletter-2.jpg)
-
-Explanation: The same classes and elements were used to code this page  as the narrow version for consistency.
+Explanation: This image is a continuation of the previous sketch of the newsletter page. Thus, this image solely outlines the bottom of the page. That being said, at the bottom of the page, the visitor will be able to access the footer, with buttons that allow them to further engage with the club. The same classes and elements were used to code this page, as the narrow version, for consistency.The same classes and elements were used to code this page  as the narrow version for consistency.
 
 ![E-Board page design](design-plan/../final-wide-eboard-1.jpg)
 
-Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
+Explanation: This page is dedicated to providing information about the club's E-board. Thus, to make the most of the space on tha page, a carousel was implemented with images (and the experiences) of the two main board members. The carousel contains arrows on either side to make for an intuitive user experiences. Following that, there is a list of the other e-board members of the club. At the top of the page, users will find the same navigation bar. Due to the fact that the wide version design contains the same content, the same classes and elements were used to code this page as the narrow version for consistency.
 
 ![E-Board page design](design-plan/../final-wide-eboard-2.jpg)
 
-Explanation: The same classes and elements were used to code this page as the narrow version for consistency.
+Explanation: This image contains a continuation of the E-board page sketch above. Near the bottom of the page, users will come across a QR code that, if scanned, takes them to an external google forms to apply. Nonetheless, to make it easier for users to scan this image, it has been coded in the form of a modal. The same classes and elements were used to code this page as the narrow version for consistency. At the end of the page, the users are able to see the footer, with buttons that allow them to contact the club and/or connect with them through social media. 
 
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
@@ -931,8 +931,11 @@ The website's content is organized into clearly labeled pages: Home, E-board, Ab
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
 When the user is reading the website on a small screen, the hamburger menu icon will appear, prompting the user to press it for the navigation menu. Implementing a hamburger menu will improve information accessibility by optimizing the limited screen space of the narrow layout. This facilitates visitors' traversal of the website and improves the usability of this website regardless of the device they are searching on. This Interaction fulfills a key audience goal: for the website to have straightforward navigation and a user-friendly design.
+
 An image carousel will be implemented, allowing the user to view images of the co-presidents of the club and their contact information on the E-board page. Under their information, users can also cycle through short snippets from the presidents. The navigation of the carousel will be familiar to users through interactive arrow buttons, which clearly communicate their purpose. The interactive image carousel will advance users toward their goal of getting to know the club e-board through its presentation of their photos and writing.
+
 On the newsletter page, which presents an example of the club’s articles, an interactive button will lead users to a separate page where they are encouraged to fill out their information to sign up for the club email newsletter. This fulfills a major audience goal of locating how to engage with the club through the newsletter subscription.
+
 Throughout the website, the footer will contain icons leading to the club’s Facebook, Twitter, and Gmail. Users will be able to interact with these buttons to engage with IRT club members on said platforms, enhancing club outreach and engagement with the club. This will benefit the audience by bringing them closer to their goals and the club by bringing attention to their other platforms and facilitating communication with potential members.
 A large QR-code image will be placed on the e-board page, prompting users to click it based on visual cues (curser pointer changing). When this button is clicked, the QR code will enlarge, permitting users to scan the code with another device or scanning program. When the code is scanned, users will be led to the IRT e-board application. Implementing this interactivity provides users with additional information regarding the application process, promotes interaction with IRT, and enhances user experience and accessibility on the website.
 
@@ -944,15 +947,15 @@ A large QR-code image will be placed on the e-board page, prompting users to cli
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 **HTML Elements:**
-1. <!DOCTYPE html>
-2. <html>
-3. <head>
-4. <link>
-5. <meta>
-6. <title>
-7. <body>
-8. <header>
-9. <div>
+1. '<!DOCTYPE html>'
+2. '<html>'
+3. '<head>'
+4. '<link>'
+5. '<meta>'
+6. '<title>'
+7. '<body>'
+8. '<header>'
+9. '<div>'
 10. <figure>
 11. <img>
 12. <h6>
@@ -969,12 +972,12 @@ A large QR-code image will be placed on the e-board page, prompting users to cli
 23. <h2>
 24. <footer>
 25. <cite>
-26. <script>
-27. <aside>
-28. <h3>
-29. <picture>
-30. <h5>
-31. <i>
+26. '<script>'
+27. '<aside>'
+28. '<h3>'
+29. '<picture>'
+30. '<h5>'
+31. '<i>'
 
 
 **CSS Classes:**
