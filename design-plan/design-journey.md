@@ -1172,6 +1172,8 @@ Minutes:
 
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
+<p><cite> User Testing Tasks </cite> by Ingrid Gruener.</p>
+
 
 ### Participant 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
