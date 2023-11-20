@@ -946,6 +946,23 @@ A large QR-code image will be placed on the e-board page, prompting users to cli
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
+**Detailed Sketches**
+Home Page Narrow:
+
+Home Page Wide:
+
+About Us Page Narrow:
+
+About Us Page Wide:
+
+Newsletter Page Narrow:
+
+Newsletter Page Wide:
+
+E-Board Page Narrow:
+
+E-Board Page Wide:
+
 **HTML Elements:**
 1. head
 2. link
@@ -1041,8 +1058,7 @@ A large QR-code image will be placed on the e-board page, prompting users to cli
   - Hamburger Menu
 
 
-**Pseudocode:**
-**Navigation:**
+**Navigation Pseudocode:**
 Function hide_nav:
     If window's width is less than or equal to 900:
         Add "hidden" to #navbar
@@ -1057,7 +1073,7 @@ When #burger is clicked:
     Else:
         Add "hidden" to #navbar
 
-**Carrousel:**
+**Carrousel Pseudocode:**
 Set an interval that repeats every 7000 milliseconds:
     If #joel-pang has "hidden":
         Remove "hidden" from #joel-pang
@@ -1082,11 +1098,11 @@ When #right-arrow-button is clicked:
         Add "hidden" to #joel-pang
         Remove "hidden" from #noah-cordon-siskind
 
-**Subscribe Button:**
+**Subscribe Button Pseudocode:**
 When #subscribe is clicked:
     Set href to "https://cornell.us15.list-manage.com/subscribe?id=63fa7e7323&u=95184ae5551472d32c2d92686"
 
-**Modal:**
+**Modal Pseudocode:**
 When #qr is clicked:
     Remove "hidden" from #qrmodal
 
@@ -1219,5 +1235,7 @@ TODO: list your collaborators
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. tutorials, W3Schools, StackOverflow, Mozilla, etc.)
+
+- https://www.scaler.com/topics/image-button-in-html/
 
 TODO: list reference resources
