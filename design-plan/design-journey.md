@@ -1260,5 +1260,6 @@ TODO: list your collaborators
 > (i.e. tutorials, W3Schools, StackOverflow, Mozilla, etc.)
 
 - https://www.scaler.com/topics/image-button-in-html/
+- https://www.washington.edu/accesscomputing/webd2/student/unit6/module2/lesson1.html#:~:text=A%20Typical%20Usability%20Test&text=Ask%20the%20users%20to%20perform,cart%20and%20proceed%20to%20checkout
 
 TODO: list reference resources
