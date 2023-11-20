@@ -911,7 +911,7 @@ Explanation: This page is dedicated to providing information about the club's E-
 
 ![E-Board page design](design-plan/../final-wide-eboard-2.jpg)
 
-Explanation: This image contains a continuation of the E-board page sketch above. Near the bottom of the page, users will come across a QR code that, if scanned, takes them to an external google forms to apply. Nonetheless, to make it easier for users to scan this image, it has been coded in the form of a modal. The same classes and elements were used to code this page as the narrow version for consistency. At the end of the page, the users are able to see the footer, with buttons that allow them to contact the club and/or connect with them through social media. 
+Explanation: This image contains a continuation of the E-board page sketch above. Near the bottom of the page, users will come across a QR code that, if scanned, takes them to an external google forms to apply. Nonetheless, to make it easier for users to scan this image, it has been coded in the form of a modal. The same classes and elements were used to code this page as the narrow version for consistency. At the end of the page, the users are able to see the footer, with buttons that allow them to contact the club and/or connect with them through social media.
 
 <p><cite> Layout Exploration </cite> by Ingrid Gruener and Elaine Wu</p>
 
@@ -947,37 +947,35 @@ A large QR-code image will be placed on the e-board page, prompting users to cli
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 **HTML Elements:**
-1. '<!DOCTYPE html>'
-2. '<html>'
-3. '<head>'
-4. '<link>'
-5. '<meta>'
-6. '<title>'
-7. '<body>'
-8. '<header>'
-9. '<div>'
-10. <figure>
-11. <img>
-12. <h6>
-13. <button>
-14. <nav>
-15. <ul>
-16. <li>
-17. <a>
-18. <h1>
-19. <aside>
-20. <h4>
-21. <p>
-22. <main>
-23. <h2>
-24. <footer>
-25. <cite>
-26. '<script>'
-27. '<aside>'
-28. '<h3>'
-29. '<picture>'
-30. '<h5>'
-31. '<i>'
+1. head
+2. link
+3. meta
+5. title
+6. body
+7. header
+8. div
+9. figure
+10. img
+11. h6
+12. button
+13. nav
+14. ul
+15. li
+16. a
+17. h1
+18. aside
+19. h4
+20. p
+21. main
+22. h2
+23. footer
+24. cite
+25. script
+26. aside
+27. h3
+28. picture
+29. h5
+30. i
 
 
 **CSS Classes:**
@@ -1086,7 +1084,7 @@ When #right-arrow-button is clicked:
 
 **Subscribe Button:**
 When #subscribe is clicked:
-    Set href to 'https://cornell.us15.list-manage.com/subscribe?id=63fa7e7323&u=95184ae5551472d32c2d92686'
+    Set href to "https://cornell.us15.list-manage.com/subscribe?id=63fa7e7323&u=95184ae5551472d32c2d92686"
 
 **Modal:**
 When #qr is clicked:
