@@ -985,7 +985,7 @@ E-Board Page Wide:
 6. header
 7. div
 8. figure
-9.  img
+9. img
 10. h6
 11. button
 12. nav
@@ -1156,11 +1156,19 @@ Minutes:
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, and history.
 
-2. TODO: task 2
+2. Task 2:  Browse the Frequently Asked Questions.
 
-3. TODO: task 3
+3. Task 3: Locate and view the past newsletter issue.
+
+4. Task 4: Subscribe to the IRT Newsletter.
+
+5. Task 5: View the profiles of current e-board members, including their roles and contributions.
+
+6. Task 6: Use the provided QR code to access the E-Board Application.
+
+7. Task 7: Use the integrated social media buttons to follow the club on various platforms.
 
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
