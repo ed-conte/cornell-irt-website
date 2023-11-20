@@ -946,20 +946,33 @@ A large QR-code image will be placed on the e-board page, prompting users to cli
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-**Detailed Sketches**
-Home Page Narrow:
+**Interactivity Plan Sketches**
+Home Page Narrow Initial State:
+![Home page narrow initial state](design-plan/../home-narrow-initial.png)
+
+Home Page Narrow Final State:
+![Home page narrow final state](design-plan/../home-narrow-final.png)
 
 Home Page Wide:
+![Home page wide](design-plan/../home-wide.png)
 
-About Us Page Narrow:
+About Us Page Narrow Initial State:
+![About Us page narrow initial state](design-plan/../about-narrow-initial.png)
+
+About Us Page Narrow Final State:
+![About Us page narrow final state](design-plan/../about-narrow-final.png)
 
 About Us Page Wide:
 
-Newsletter Page Narrow:
+Newsletter Page Narrow Initial State:
+
+Newsletter Page Narrow Final State:
 
 Newsletter Page Wide:
 
-E-Board Page Narrow:
+E-Board Page Narrow Initial State:
+
+E-Board Page Narrow Final State:
 
 E-Board Page Wide:
 
@@ -967,32 +980,32 @@ E-Board Page Wide:
 1. head
 2. link
 3. meta
-5. title
-6. body
-7. header
-8. div
-9. figure
-10. img
-11. h6
-12. button
-13. nav
-14. ul
-15. li
-16. a
-17. h1
-18. aside
-19. h4
-20. p
-21. main
-22. h2
-23. footer
-24. cite
-25. script
-26. aside
-27. h3
-28. picture
-29. h5
-30. i
+4. title
+5. body
+6. header
+7. div
+8. figure
+9.  img
+10. h6
+11. button
+12. nav
+13. ul
+14. li
+15. a
+16. h1
+17. aside
+18. h4
+19. p
+20. main
+21. h2
+22. footer
+23. cite
+24. script
+25. aside
+26. h3
+27. picture
+28. h5
+29. i
 
 
 **CSS Classes:**
