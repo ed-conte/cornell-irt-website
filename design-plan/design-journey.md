@@ -963,6 +963,7 @@ About Us Page Narrow Final State:
 ![About Us page narrow final state](design-plan/../about-narrow-final.png)
 
 About Us Page Wide:
+![About Us page wide](design-plan/../about-wide.png)
 
 Newsletter Page Narrow Initial State:
 
