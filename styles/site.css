@@ -499,6 +499,54 @@ footer p {
         flex-direction: column;
     }
 
+    #article1 {
+        order: 2;
+    }
+
+    #article2 {
+        order: 2;
+    }
+
+    #article3 {
+        order: 2;
+    }
+
+    #article4 {
+        order: 2;
+    }
+
+    #article5 {
+        order: 2;
+    }
+
+    #article6 {
+        order: 2;
+    }
+
+    #img1 {
+        order: 1;
+    }
+    
+    #img2 {
+        order: 1;
+    }
+
+    #img3 {
+        order: 1;
+    }
+
+    #img4 {
+        order: 1;
+    }
+
+    #img5 {
+        order: 1;
+    }
+
+    #img6 {
+        order: 1;
+    }
+
     /* ---- e-board styling in narrow---- */
     .members-content-row {
         display: flex;
