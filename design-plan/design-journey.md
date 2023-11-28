@@ -975,12 +975,22 @@ Newsletter Page Narrow Final State:
 ![Newsletter page narrow final state](design-plan/../newsletter-final.png)
 
 Newsletter Page Wide:
+![Newsletter page wide](design-plan/../newsletter-wide.png)
 
 E-Board Page Narrow Initial State:
+![E-Board page narrow initial state](design-plan/../board-narrow-initial.png)
 
 E-Board Page Narrow Final State:
+![E-Board page narrow final state](design-plan/../board-narrow-final.png)
+
+E-Board Page Narrow Final Open Modal:
+![E-Board page narrow final state open modal](design-plan/../board-narrow-final-modal.png)
 
 E-Board Page Wide:
+![E-Board page wide](design-plan/../board-wide.png)
+
+E-Board Page Wide Open Modal:
+![E-Board page wide](design-plan/../board-wide-modal.png)
 
 **HTML Elements:**
 1. head
