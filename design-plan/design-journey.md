@@ -965,9 +965,14 @@ About Us Page Narrow Final State:
 About Us Page Wide:
 ![About Us page wide](design-plan/../about-wide.png)
 
-Newsletter Page Narrow Initial State:
+Newsletter Page Narrow Initial State Part 1:
+![Newsletter page narrow initial state part 1](design-plan/../newsletter-narrow-initial1.png)
+
+Newsletter Page Narrow Initial State Part 2:
+![Newsletter page narrow initial state part 2](design-plan/../newsletter-narrow-initial2.png)
 
 Newsletter Page Narrow Final State:
+![Newsletter page narrow final state](design-plan/../newsletter-final.png)
 
 Newsletter Page Wide:
 
