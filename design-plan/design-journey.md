@@ -1172,7 +1172,7 @@ Minutes:
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, and history.
+1. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, writing process, and joining IRT.
 
 2. Task 2:  Browse the Frequently Asked Questions.
 
@@ -1185,6 +1185,8 @@ Minutes:
 6. Task 6: Use the provided QR code to access the E-Board Application.
 
 7. Task 7: Use the integrated social media buttons to follow the club on various platforms.
+
+8. Task 8: Find the email button and craft an email to IRT.
 
 <p><cite> User Testing Tasks </cite> by Ingrid Gruener.</p>
 
@@ -1211,22 +1213,23 @@ Minutes:
 
 During the testing phase, he was able to seamlessly navigate the website and complete all the tasks in a timely manner.
 
-1. When tasked with navigating to the about us page in both the narrow and wide versions of the website, he automatically knew where to find the navigation menu. 
-2.
-3. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, and history.
+1. When tasked with navigating to the about us page in both the narrow and wide versions of the website, he automatically knew where to find the navigation menu. On the 'About Us' page he was able to find the club's mission, values, writing process, and joining IRT very quickly.
 
-4. Task 2:  Browse the Frequently Asked Questions.
+2. As soon as he was asked to find the frequently asked questions, he knew exactly where to look. He took less than one second to find the aside with the frequently asked questions.
 
-5. Task 3: Locate and view the past newsletter issue.
+3. When it came to locating and viewing the past newsletter issue, the user took a second to think about what to do while scrolling through the home page. Nonetheless, right after, he realized that there was a website page titled newsletter so he navigated there and found the information he was looking for.
 
-6. Task 4: Subscribe to the IRT Newsletter.
+4. For task four, he knew exactly where to find the subscribe button to the IRT Newsletter. It was probably easier for him to find because he had already looked through that page for the previous task.
 
-7. Task 5: View the profiles of current e-board members, including their roles and contributions.
+5. As soon as he was tasked with viewing the profiles of current e-board members, including their roles and contributions, he navigated to the e-board page and found the information he was looking for.
 
-8. Task 6: Use the provided QR code to access the E-Board Application.
+6. This task took the user more time than the other tasks. Nonetheless, the user was able to find the QR code to the e-board application in two seconds. After a brief discussion, he revealed that he had no problem scanning the QR code to access the application.
 
-9. Task 7: Use the integrated social media buttons to follow the club on various platforms.
-TODO: participant user test notes
+7. The user had no problem finding the social media buttons to follow IRT across differnt platforms.
+
+8. During this task, he was able to quickly access the email button and draft an email to IRT.
+
+  <p><cite> Participant 1 -- Testing Notes </cite> by Ingrid Gruener.</p>
 
 
 ### Participant 2 (Final Submission)
