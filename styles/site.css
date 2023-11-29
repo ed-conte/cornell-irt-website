@@ -91,6 +91,13 @@ p{
     padding-top: 0px;
 }
 
+main p {
+    margin-left: 40px;
+    margin-right: 50px;
+    line-height: 28px;
+    text-indent: 35px;
+}
+
 /* ---- Header ---- */
 
 header {
@@ -148,16 +155,6 @@ figure {
 .navbar a:hover {
     background-color: #000000;
     color: #ffffff;
-}
-
-/* ---- homepage styling ---- */
-
-#welcome {
-
-}
-
-#platform {
-
 }
 
 /* ---- newsletter page styling ---- */
@@ -270,7 +267,7 @@ aside {
     display: flex;
     flex: 2;
     flex-direction:column;
-}
+}x
 
 
 /* ---- e-board page styling ---- */
@@ -526,7 +523,7 @@ footer p {
     #img1 {
         order: 1;
     }
-    
+
     #img2 {
         order: 1;
     }
