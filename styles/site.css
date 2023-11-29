@@ -96,6 +96,10 @@ p{
     padding-top: 0px;
 }
 
+abbr{
+    text-decoration: none;
+}
+
 /* ---- Header ---- */
 
 header {
