@@ -1305,3 +1305,4 @@ TODO: explain the revisions to your website from user testing
 - https://www.scaler.com/topics/image-button-in-html/
 - https://www.washington.edu/accesscomputing/webd2/student/unit6/module2/lesson1.html#:~:text=A%20Typical%20Usability%20Test&text=Ask%20the%20users%20to%20perform,cart%20and%20proceed%20to%20checkout
 - https://www.w3schools.com/howto/howto_css_modals.asp
+- https://www.w3schools.com/cssref/sel_hover.php 
