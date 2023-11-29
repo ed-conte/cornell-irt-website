@@ -1199,7 +1199,7 @@ Minutes:
 
 1. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, writing process, and joining IRT.
 
-2. Task 2:  Browse the Frequently Asked Questions.
+2. Task 2: Browse the Frequently Asked Questions.
 
 3. Task 3: Locate and view the past newsletter issue.
 
@@ -1263,20 +1263,36 @@ During the testing phase, he was able to seamlessly navigate the website and com
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    User is 19 and from Queens, New York. He is a sophomore in the College of Arts & Sciences studying Information Science with a minor in Law and Society. He is currently employed at the Statler Hotel as a side job for extra income, and he is currently looking for summer internships in product design and project management. He has taken a few classes in economics and business here at Cornell University, and he is an integral member of the business sub-team of the project team Hack4Impact. He is mainly interested in the design of digital products and how the economy influences the development of digital products.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, he is a student at Cornell University who reads the news regarding tech businesses and the economy.
 
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+User is accessing the website on a wide screen laptop.
+
+1. Task 1: User was able to immediatel find the About Us page in the navigation bar and easily scroll and read through the content.
+
+2. Task 2: User found the FAQ section immediately since it was on the About Us page and he already noticed it during the previous task.
+
+3. Task 3: User intuitively went back to the navigation bar at the top and clicked on IRT Newsletter. User scrolled through the page. In addition, they clicked on the click here links to see where it led them.
+
+4. Task 4: User went back to the navigation bar again like previously, and then immediately realized the subscribe button was at the top below the navigation bar. User clicked the subscribe button that led them to the correct external website.
+
+5. Task 5: User again went to the navigation bar and clicked on E-Board to find the information. User scrolled down to read the description of the first member and then clicked between the buttons to display the two different members and their descriptions. User then scrolled to the rest of the page out of curiosity.
+
+6. Task 6: User easily found the QR code since they already scrolled through the entire page on the previous task. User then asked if they could click the QR code after hovering on the QR code, and he proceeded to answer his own question by clicking on the QR code. He then took his phone and scanned the QR code, which led him to the application.
+
+7. Task 7: Since the user was still at the bottom of the E-Board page from the last task, he immediately found the social media buttons and clicked on them, which took him to the corresponding social media website.
+
+8. Task 8: User was still on the footer from the previous task, so he immediately clicked the email button, which opened his email app with the email of the club already in the "to" section of the email draft.
 
 
 ### Participant 3 (Final Submission)
