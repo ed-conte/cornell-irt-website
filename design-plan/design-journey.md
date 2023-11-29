@@ -1213,21 +1213,22 @@ Minutes:
 
 During the testing phase, he was able to seamlessly navigate the website and complete all the tasks in a timely manner.
 
-1. When tasked with navigating to the about us page in both the narrow and wide versions of the website, he automatically knew where to find the navigation menu. On the 'About Us' page he was able to find the club's mission, values, writing process, and joining IRT very quickly.
+- Task 1: When tasked with navigating to the about us page in both the narrow and wide versions of the website, he automatically knew where to find the navigation menu. On the 'About Us' page he was able to find the club's mission, values, writing process, and joining IRT very quickly.
 
-2. As soon as he was asked to find the frequently asked questions, he knew exactly where to look. He took less than one second to find the aside with the frequently asked questions.
+- Task 2: As soon as he was asked to find the frequently asked questions, he knew exactly where to look. He took less than one second to find the aside with the frequently asked questions.
 
-3. When it came to locating and viewing the past newsletter issue, the user took a second to think about what to do while scrolling through the home page. Nonetheless, right after, he realized that there was a website page titled newsletter so he navigated there and found the information he was looking for.
+- Task 3: When it came to locating and viewing the past newsletter issue, the user took a second to think about what to do while scrolling through the home page. Nonetheless, right after, he realized that there was a website page titled newsletter so he navigated there and found the information he was looking for.
 
-4. For task four, he knew exactly where to find the subscribe button to the IRT Newsletter. It was probably easier for him to find because he had already looked through that page for the previous task.
+- Task 4: For task four, he knew exactly where to find the subscribe button to the IRT Newsletter. It was probably easier for him to find because he had already looked through that page for the previous task.
 
-5. As soon as he was tasked with viewing the profiles of current e-board members, including their roles and contributions, he navigated to the e-board page and found the information he was looking for.
+- Task 5: As soon as he was tasked with viewing the profiles of current e-board members, including their roles and contributions, he navigated to the e-board page and found the information he was looking for.
+  - Nonetheless, when he navigated this page, I realized that he had a hard time realizing that he could press the right and left arrows to look at the other e-board members (and their descriptions). I asked him about this and he revealed that he thought it was because the buttons were too far from the images.
 
-6. This task took the user more time than the other tasks. Nonetheless, the user was able to find the QR code to the e-board application in two seconds. After a brief discussion, he revealed that he had no problem scanning the QR code to access the application.
+- Task 6: This task took the user more time than the other tasks. Nonetheless, the user was able to find the QR code to the e-board application in two seconds. After a brief discussion, he revealed that he had no problem scanning the QR code to access the application.
 
-7. The user had no problem finding the social media buttons to follow IRT across differnt platforms.
+- Task 7: The user had no problem finding the social media buttons to follow IRT across differnt platforms. Nonetheless, at first he was unsure on whether he was able to automatically click the social media buttons to take him to these external websites.
 
-8. During this task, he was able to quickly access the email button and draft an email to IRT.
+- Task 8: During this task, he was able to quickly access the email button and draft an email to IRT. Nonetheless, like the above task, he was shocked when he realized that he was able to click on the mail button to craft this email.
 
 <p><cite> Participant 1 -- Testing Notes </cite> by Ingrid Gruener.</p>
 
@@ -1280,7 +1281,13 @@ TODO: add more participants if necessary
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
+1. After the first user test was conducted, the carrousel left and right arrows were moved to be closer to the images. That way, users will instantly know that they have to click the arrows to switch images (and text) in order to view the content that pertains to each of the two executive board members.
+
+2. After the first user test was conducted, a hover effect was added to the icon buttons within the footer (i.e., the twitter button, the facebook button, and the mail button) to make it clear to the users that they are able to interact with these icons by clicking on the icons.
+
 TODO: explain the revisions to your website from user testing
+
+<p><cite> Website Revision Based on User Testing </cite> by all group members.</p>
 
 
 ## Grading (Final Submission)
@@ -1288,7 +1295,7 @@ TODO: explain the revisions to your website from user testing
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+- Our group did not collaborate with any external individuals.
 
 
 ### Reference Resources (Final Submission)
@@ -1297,5 +1304,4 @@ TODO: list your collaborators
 
 - https://www.scaler.com/topics/image-button-in-html/
 - https://www.washington.edu/accesscomputing/webd2/student/unit6/module2/lesson1.html#:~:text=A%20Typical%20Usability%20Test&text=Ask%20the%20users%20to%20perform,cart%20and%20proceed%20to%20checkout
-
-TODO: list reference resources
+- https://www.w3schools.com/howto/howto_css_modals.asp
