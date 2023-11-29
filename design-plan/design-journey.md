@@ -1270,6 +1270,7 @@ During the testing phase, he was able to seamlessly navigate the website and com
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
+    (**Yes** / No)
     Yes, he is a student at Cornell University who reads the news regarding tech businesses and the economy.
 
 
@@ -1278,7 +1279,7 @@ During the testing phase, he was able to seamlessly navigate the website and com
 
 User is accessing the website on a wide screen laptop.
 
-1. Task 1: User was able to immediatel find the About Us page in the navigation bar and easily scroll and read through the content.
+1. Task 1: User was able to immediately find the About Us page in the navigation bar and easily scroll and read through the content.
 
 2. Task 2: User found the FAQ section immediately since it was on the About Us page and he already noticed it during the previous task.
 
