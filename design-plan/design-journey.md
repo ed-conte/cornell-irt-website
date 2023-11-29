@@ -230,6 +230,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 <p><cite>Understanding Users</cite> by Group Members.</p>
 
+
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
