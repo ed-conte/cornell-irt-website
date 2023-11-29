@@ -872,19 +872,19 @@ Explanation: This sketch outlines the look and feel of the QR code modal. This m
 
 ![Home page design](design-plan/../final-narrow-home.jpg)
 
-Explanation: The sketch shows the coding elements that were used for the narrow home page. The divs and classes that were implemented allowed for the content to be stacked to make the most of the screen space. The navigation coding elements made it possible to change between the wide navigation and narrow navigation.
+Explanation: The sketch shows the coding elements that were used for the narrow home page. The divs and classes that were implemented allowed for the content to be stacked to make the most of the screen space. The navigation coding elements made it possible to change between the wide navigation and narrow navigation. The narrow version of the home page has the aside with the frequently asked questions in order for the website visitors to be able to instantly get answers to questions they may have without having to browse multiple pages of the website to find this information.
 
 ![About page design](design-plan/../final-narrow-about.jpg)
 
-Explanation: The same classes and elements were used to code the about page for consistency. The narrow page features a stacked content layout to make the most of the screen space as a means of making the website easy to navigate. Thus, the content is organized in a hierarchical order wherein the most important content is placed toward the top (i.e., the club's mission) and the content gets less important as the page continues. The page closes with the same footer that is found on all the website's pages.
+Explanation: The same classes and elements were used to code the about page for consistency. The narrow page features a stacked content layout to make the most of the screen space as a means of making the website easy to navigate. Thus, the content is organized in a hierarchical order wherein the most important content is placed toward the top (i.e., the club's mission) and the content gets less important as the page continues. The page closes with the same footer that is found on all the website's pages. The about page features the frequently asked questions because most of the questions pertain to general information about the club and since this page focuses on that it is important for users to be able to find all content about the club on this page.
 
 ![Newsletter page design](design-plan/../final-narrow-newsletter.jpg)
 
-Explanation: The narrow newsletter page contains stacked content paired with the appropriate images. Specifically, the text is followed by a visual element that summarizes what the paragraph discusses. In order to accomplish this parent and child elements were used. Near the top of the page, there is a subscribe button that allows users to easily subscribe to the newsletter if they seem to be interested in the content. Again, the footer and navigation bar are the same on all pages to make the website user-friendly and easy to navigate.
+Explanation: The narrow newsletter page contains stacked content paired with the appropriate images. Specifically, the text is followed by a visual element that summarizes what the paragraph discusses. In order to accomplish this parent and child elements were used. Near the top of the page, there is a subscribe button that allows users to easily subscribe to the newsletter if they seem to be interested in the content. Again, the footer and navigation bar are the same on all pages to make the website user-friendly and easy to navigate. This page does not have the frequently asked questions because none of the questions specifically pertain to the newsletter therefore it does not make sense to include this aside on the newsletter page. Not to mention, the newsletter page has multiple images and a lot of text content already and adding the aside may make the users overwhelmed, which defeats the purpose of the website because the goal is to make the pages easy to navigate in order for the users to access the information they are looking for intuitively.
 
 ![E-Board page design](design-plan/../final-narrow-eboard.jpg)
 
-Explanation: The e-board page contains all the information that is necessary for a user to understand how the club's e-board functions. Thus, the first piece of content is a carousel with images of the head e-board members, followed by a description of their personal experiences being part of the club. After the modal, there is a section of the page with the names, majors, and years of the other e-board members of the club. At the end of the page, users are given access to a QR code that leads to an external google forms with an E-board application; this QR code is coded in the form of a modal to make it easier for user to scan it. As previously stated, this page contains the same hamburger menu and footer as the other pages.
+Explanation: The e-board page contains all the information that is necessary for a user to understand how the club's e-board functions. Thus, the first piece of content is a carousel with images of the head e-board members, followed by a description of their personal experiences being part of the club. After the modal, there is a section of the page with the names, majors, and years of the other e-board members of the club. At the end of the page, users are given access to a QR code that leads to an external google forms with an E-board application; this QR code is coded in the form of a modal to make it easier for user to scan it. As previously stated, this page contains the same hamburger menu and footer as the other pages. Nonetheless, this page does not contain the aside because the page already has enough content and including the aside would most likely make the audience members quite overwhelmed.
 
 
 **Wide Design:**
@@ -899,7 +899,7 @@ Explanation: Like the website's home page, the About Us page features a side-by 
 
 ![Newsletter page design](design-plan/../final-wide-newsletter-1.jpg)
 
-Explanation: As seen in the narrow screen version, the page opens with an sentence overview of the club's newsletter, followed by an image button that allows users to immediately subscribe to the newsletter. After the button, there is an example of one of the past newsletters, paired with images that complement its content. The content is organized in a Z-format, as suggested by one of the interviewees. At the top of the page, the user will find the navigation bar.
+Explanation: As seen in the narrow screen version, the page opens with an sentence overview of the club's newsletter, followed by an image button that allows users to immediately subscribe to the newsletter. After the button, there is an example of one of the past newsletters, paired with images that complement its content. The content is organized in a Z-format, as suggested by one of the interviewees. Due to the Z-format, the aside is not included on this page; including the aside would make the content appear cramped, making the page harder to navigate. At the top of the page, the user will find the navigation bar.
 
 ![Newsletter page design](design-plan/../final-wide-newsletter-2.jpg)
 
@@ -907,7 +907,7 @@ Explanation: This image is a continuation of the previous sketch of the newslett
 
 ![E-Board page design](design-plan/../final-wide-eboard-1.jpg)
 
-Explanation: This page is dedicated to providing information about the club's E-board. Thus, to make the most of the space on tha page, a carousel was implemented with images (and the experiences) of the two main board members. The carousel contains arrows on either side to make for an intuitive user experiences. Following that, there is a list of the other e-board members of the club. At the top of the page, users will find the same navigation bar. Due to the fact that the wide version design contains the same content, the same classes and elements were used to code this page as the narrow version for consistency.
+Explanation: This page is dedicated to providing information about the club's E-board. Thus, to make the most of the space on tha page, a carousel was implemented with images (and the experiences) of the two main board members. The carousel contains arrows on either side to make for an intuitive user experiences. Following that, there is a list of the other e-board members of the club. Due to the abundance of content on this page, the aside is not included. The users will find all the necessary information about the E-Board on this page without having to access the frequently asked questions within the aside. At the top of the page, users will find the same navigation bar. Due to the fact that the wide version design contains the same content, the same classes and elements were used to code this page as the narrow version for consistency.
 
 ![E-Board page design](design-plan/../final-wide-eboard-2.jpg)
 
@@ -921,7 +921,7 @@ Explanation: This image contains a continuation of the E-board page sketch above
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-The website's content is organized into clearly labeled pages: Home, E-board, About, and Newsletter. This structure was chosen as it directly caters to the primary interests of the audience. By segmenting content into these categories, the site permits students to quickly find information relevant to their goals, promoting efficient and targeted browsing. The navigation is designed to be concise and user-friendly, employing a top navigation bar that remains consistent across all pages. This design pattern is familiar to most users, reducing the learning curve and user experience. Such ease of navigation is crucial for students who are often time-constrained and seeking quick information about the club. Additionally, the use of an aside is popular among websites to display brief information to the users. without requiring them to scour the website for it. The layout is clean and minimalistic, with a focus on readability and ease of use, reflecting the theme of the club. This design choice was intended to appeal to the audience's intellectual curiosity, presenting content in an uncluttered, focused manner. Moreover, the use of the club's colors (red, grey, and white) in the design maintains brand consistency and creates a visually appealing aesthetic that remains cohesive with the club's existing identity. Familiar design patterns have been employed, such as a prominently displayed header containing the page title and navigation bar, a footer with additional links and information, and an aside with frequently asked questions. By using these patterns, the website offers a sense of familiarity, making it easier for users to navigate and interact with the site. Using visual cues like icons for different sections and buttons, such as the hamburger menu, also helps make the site more intuitive and user-friendly.
+The website's content is organized into clearly labeled pages: Home, E-board, About, and Newsletter. This structure was chosen as it directly caters to the primary interests of the audience. By segmenting content into these categories, the site permits students to quickly find information relevant to their goals, promoting efficient and targeted browsing. The navigation is designed to be concise and user-friendly, employing a top navigation bar that remains consistent across all pages. This design pattern is familiar to most users, reducing the learning curve and user experience. Such ease of navigation is crucial for students who are often time-constrained and seeking quick information about the club. Additionally, the use of an aside is popular among websites to display brief information to the users without requiring them to scour the website for it. Nonetheless, the placement of the aside was carefully selected (and is only featured on the first two pages) to make sure that the users find all the information they are looking for without getting overwhelmed. The layout is clean and minimalistic, with a focus on readability and ease of use, reflecting the theme of the club. This design choice was intended to appeal to the audience's intellectual curiosity, presenting content in an uncluttered, focused manner. Moreover, the use of the club's colors (red, grey, and white) in the design maintains brand consistency and creates a visually appealing aesthetic that remains cohesive with the club's existing identity. Familiar design patterns have been employed, such as a prominently displayed header containing the page title and navigation bar, a footer with additional links and information, and an aside with frequently asked questions. By using these patterns, the website offers a sense of familiarity, making it easier for users to navigate and interact with the site. Using visual cues like icons for different sections and buttons, such as the hamburger menu, also helps make the site more intuitive and user-friendly.
 
 <p><cite> Design Rationale </cite> by Edward Conte.</p>
 
@@ -1172,7 +1172,7 @@ Minutes:
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, and history.
+1. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, writing process, and joining IRT.
 
 2. Task 2:  Browse the Frequently Asked Questions.
 
@@ -1186,7 +1186,7 @@ Minutes:
 
 7. Task 7: Use the integrated social media buttons to follow the club on various platforms.
 
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
+8. Task 8: Find the email button and craft an email to IRT.
 
 <p><cite> User Testing Tasks </cite> by Ingrid Gruener.</p>
 
@@ -1196,20 +1196,41 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    My user is an individual who is currently a student majoring in Business Administration with a concentration in Economics. After his digital marketing class, he has developed a keen interest in pursuing a career that intersects business and technology. On his free time, he likes to read about the current economic trends, and the stock market (focusing on the stocks he has invested in). He is 21 years old and is originally from Miami, Florida but currently resides in Ithaca, NY for his studies. He is currently unemployed because he is a full time student, but he is in his Senior year of college and currently searching for jobs.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    (**Yes** / No)
+    My user belongs to the audience of the site because he is a Cornell student who is interested in exploring the field of economics by reading publications.
 
+<p><cite> Participant 1 </cite> by Ingrid Gruener.</p>
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+During the testing phase, he was able to seamlessly navigate the website and complete all the tasks in a timely manner.
+
+- Task 1: When tasked with navigating to the about us page in both the narrow and wide versions of the website, he automatically knew where to find the navigation menu. On the 'About Us' page he was able to find the club's mission, values, writing process, and joining IRT very quickly.
+
+- Task 2: As soon as he was asked to find the frequently asked questions, he knew exactly where to look. He took less than one second to find the aside with the frequently asked questions.
+
+- Task 3: When it came to locating and viewing the past newsletter issue, the user took a second to think about what to do while scrolling through the home page. Nonetheless, right after, he realized that there was a website page titled newsletter so he navigated there and found the information he was looking for.
+
+- Task 4: For task four, he knew exactly where to find the subscribe button to the IRT Newsletter. It was probably easier for him to find because he had already looked through that page for the previous task.
+
+- Task 5: As soon as he was tasked with viewing the profiles of current e-board members, including their roles and contributions, he navigated to the e-board page and found the information he was looking for.
+  - Nonetheless, when he navigated this page, I realized that he had a hard time realizing that he could press the right and left arrows to look at the other e-board members (and their descriptions). I asked him about this and he revealed that he thought it was because the buttons were too far from the images.
+
+- Task 6: This task took the user more time than the other tasks. Nonetheless, the user was able to find the QR code to the e-board application in two seconds. After a brief discussion, he revealed that he had no problem scanning the QR code to access the application.
+
+- Task 7: The user had no problem finding the social media buttons to follow IRT across differnt platforms. Nonetheless, at first he was unsure on whether he was able to automatically click the social media buttons to take him to these external websites.
+
+- Task 8: During this task, he was able to quickly access the email button and draft an email to IRT. Nonetheless, like the above task, he was shocked when he realized that he was able to click on the mail button to craft this email.
+
+<p><cite> Participant 1 -- Testing Notes </cite> by Ingrid Gruener.</p>
 
 
 ### Participant 2 (Final Submission)
@@ -1260,7 +1281,13 @@ TODO: add more participants if necessary
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
+1. After the first user test was conducted, the carrousel left and right arrows were moved to be closer to the images. That way, users will instantly know that they have to click the arrows to switch images (and text) in order to view the content that pertains to each of the two executive board members.
+
+2. After the first user test was conducted, a hover effect was added to the icon buttons within the footer (i.e., the twitter button, the facebook button, and the mail button) to make it clear to the users that they are able to interact with these icons by clicking on the icons.
+
 TODO: explain the revisions to your website from user testing
+
+<p><cite> Website Revision Based on User Testing </cite> by all group members.</p>
 
 
 ## Grading (Final Submission)
@@ -1268,7 +1295,7 @@ TODO: explain the revisions to your website from user testing
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+- Our group did not collaborate with any external individuals.
 
 
 ### Reference Resources (Final Submission)
@@ -1277,5 +1304,5 @@ TODO: list your collaborators
 
 - https://www.scaler.com/topics/image-button-in-html/
 - https://www.washington.edu/accesscomputing/webd2/student/unit6/module2/lesson1.html#:~:text=A%20Typical%20Usability%20Test&text=Ask%20the%20users%20to%20perform,cart%20and%20proceed%20to%20checkout
-
-TODO: list reference resources
+- https://www.w3schools.com/howto/howto_css_modals.asp
+- https://www.w3schools.com/cssref/sel_hover.php 

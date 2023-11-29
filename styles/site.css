@@ -39,10 +39,12 @@ h3{
 
 h4{
     font-size: 25px;
+    text-align: center;
 }
 
 h5{
     text-align: center;
+    font-size: 18px;
 }
 
 h6{
@@ -60,6 +62,9 @@ h7{
 
 p{
     font-size: 20px;
+
+    margin-left: 15px;
+    margin-right: 10px;
 }
 
 .container {
@@ -89,6 +94,10 @@ p{
 .citation{
     font-size: 10px;
     padding-top: 0px;
+}
+
+abbr{
+    text-decoration: none;
 }
 
 main p {
@@ -293,6 +302,11 @@ aside {
     align-items: center;
 }
 
+.chief-editor-gallery {
+    display: flex;
+    flex-direction: row;
+}
+
 .chief-editor-desc h4 {
     margin: 20px 20px 0 20px;
 }
@@ -332,26 +346,25 @@ aside {
 
 .members ul {
     list-style-type: none;
+    padding: 0 14px;
 }
 
 .member-name {
     font-weight: bold;
 }
 
-.left-arrow-button {
+.right-arrow-button, .left-arrow-button {
     display: block;
     padding: 16px;
     margin: auto 18px;
     margin-right: 30px;
     border-radius: 4px;
+
+    font-size: 32px;
 }
 
-.right-arrow-button {
-    display: block;
-    padding: 16px;
-    margin: auto 18px;
-    margin-right: 30px;
-    border-radius: 4px;
+.right-arrow-button:hover, .left-arrow-button:hover {
+    background-color: gray;
 }
 
 .qr-code {
@@ -392,6 +405,10 @@ footer p {
     height: auto;
 }
 
+.twitter-button:hover {
+    background-color: white;
+}
+
 .facebook-button {
     background: rgba(0, 0, 0, 0);
     border: none;
@@ -405,6 +422,10 @@ footer p {
     height: auto;
 }
 
+.facebook-button:hover {
+    background-color: white;
+}
+
 .mail-button {
     background: rgba(0, 0, 0, 0);
     border: none;
@@ -416,6 +437,10 @@ footer p {
 
     width: 100px;
     height: auto;
+}
+
+.mail-button:hover {
+    background-color: white;
 }
 
 @media (max-width: 900px) {
