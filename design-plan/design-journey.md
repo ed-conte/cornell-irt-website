@@ -228,6 +228,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 - Logo: Placing the logo at the top of the website helps reinforce the brand identity and ensures that the audience members immediately understand what the website will cover.
 
+<p><cite>Understanding Users</cite> by Group Members.</p>
 
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
@@ -1327,7 +1328,7 @@ TODO: add more participants if necessary
 
 2. After the first user test was conducted, a hover effect was added to the icon buttons within the footer (i.e., the twitter button, the facebook button, and the mail button) to make it clear to the users that they are able to interact with these icons by clicking on the icons.
 
-3. After the user tests, a few participants realized that the carrousel buttons were not functioning correctly; this was fixed. 
+3. After the user tests, a few participants realized that the carrousel buttons were not functioning correctly; this was fixed.
 
 <p><cite> Website Revision Based on User Testing </cite> by all group members.</p>
 
