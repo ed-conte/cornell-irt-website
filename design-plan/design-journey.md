@@ -1186,8 +1186,6 @@ Minutes:
 
 7. Task 7: Use the integrated social media buttons to follow the club on various platforms.
 
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
-
 <p><cite> User Testing Tasks </cite> by Ingrid Gruener.</p>
 
 
@@ -1196,19 +1194,38 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    My user is an individual who is currently a student majoring in Business Administration with a concentration in Economics. After his digital marketing class, he has developed a keen interest in pursuing a career that intersects business and technology. On his free time, he likes to read about the current economic trends, and the stock market (focusing on the stocks he has invested in). He is 21 years old and is originally from Miami, Florida but currently resides in Ithaca, NY for his studies. He is currently unemployed because he is a full time student, but he is in his Senior year of college and currently searching for jobs.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    (**Yes** / No)
+    My user belongs to the audience of the site because he is a Cornell student who is interested in exploring the field of economics by reading publications.
 
+  <p><cite> Participant 1 </cite> by Ingrid Gruener.</p>
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
+During the testing phase, he was able to seamlessly navigate the website and complete all the tasks in a timely manner.
+
+1. When tasked with navigating to the about us page in both the narrow and wide versions of the website, he automatically knew where to find the navigation menu. 
+2.
+3. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, and history.
+
+4. Task 2:  Browse the Frequently Asked Questions.
+
+5. Task 3: Locate and view the past newsletter issue.
+
+6. Task 4: Subscribe to the IRT Newsletter.
+
+7. Task 5: View the profiles of current e-board members, including their roles and contributions.
+
+8. Task 6: Use the provided QR code to access the E-Board Application.
+
+9. Task 7: Use the integrated social media buttons to follow the club on various platforms.
 TODO: participant user test notes
 
 
