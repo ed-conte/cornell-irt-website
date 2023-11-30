@@ -1297,6 +1297,7 @@ User is accessing the website on a wide screen laptop.
 
 8. Task 8: User was still on the footer from the previous task, so he immediately clicked the email button, which opened his email app with the email of the club already in the "to" section of the email draft.
 
+<p><cite> Participant 2 </cite> by Elaine Wu.</p>
 
 ### Participant 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -1312,6 +1313,7 @@ User is accessing the website on a wide screen laptop.
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
+(**Yes** / No)
 - Yes, they are within the site’s audience: A Cornell student interested in staying up to date with current economic events.
 
 
@@ -1366,6 +1368,7 @@ The user said that The feedback from the button hover looked very good.
 - The user knew where to find the email button.
   -  Buttoned opened the system mail app, where the user successfully filled out the email and then returned to the website.
 
+<p><cite> Participant 3 </cite> by Eddie Conte.</p>
 
 
 ## Website Revision Based on User Testing (Final Submission)
