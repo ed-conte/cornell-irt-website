@@ -1303,23 +1303,69 @@ User is accessing the website on a wide screen laptop.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+- The user’s name is Ashley Kim.
+- They are a major hotel with an internship in real estate.
+- The user likes to stay up to date on current events, especially those that are important to their job field.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+- Yes, they are within the site’s audience: A Cornell student interested in staying up to date with current economic events.
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Task 1: Navigate to the 'About Us' page to read about the club's mission, values, writing process, and joining IRT.
 
+- The user knew exactly where to find the About Us page in the navigation
+  - Said that the navigation bar is named appropriately for the site and the information is pertinent to the page it is on
+  - Good hierarchy of information
 
-TODO: add more participants if necessary
+2. Task 2: Browse the Frequently Asked Questions.
+
+- The user saw the sidebar on the homepage and read the frequently asked questions first
+  - Obvious layout
+  - Formatted well
+    - Intuitive
+
+3. Task 3: Locate and view the past newsletter issue.
+
+- The user was easily able to find the newsletter from the navigation bar
+  - Saw the subscribe button first
+  - Scrolled through the newsletter
+    - Noticed headings based on the topic
+    - Photos help find topics
+
+4. Task 4: Subscribe to the IRT Newsletter.
+
+- The subscribe button was located in an obvious spot
+  - The first thing the user saw on the page
+    - The user was able to locate the subscribe button easily and immediately knew how to use it
+
+5. Task 5: View the profiles of current e-board members, including their roles and contributions.
+
+- Easily allocated the members page.
+  - Used interactivity for the E-board members
+  - Noticed the automatic timer for the E-board interactivity
+- Read through the members and scanned the QRcode
+
+6. Task 6: Use the provided QR code to access the E-Board Application.
+
+- QR code was easy to spot on the member's page. The link worked, and the user was brought to the application form.
+
+7. Task 7: Use the integrated social media buttons to follow the club on various platforms.
+Users expected the social media buttons and contact information to be where they are.
+The buttons were large enough to catch their attention.
+The user said that The feedback from the button hover looked very good.
+
+8. Task 8: Find the email button and craft an email to IRT.
+
+- The user knew where to find the email button.
+  -  Buttoned opened the system mail app, where the user successfully filled out the email and then returned to the website.
+
 
 
 ## Website Revision Based on User Testing (Final Submission)
